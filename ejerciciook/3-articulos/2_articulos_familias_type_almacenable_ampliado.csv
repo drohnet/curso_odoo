@@ -1,0 +1,481 @@
+default_code,categ_id,name,list_price,standard_price,type,route_ids/id,seller_ids/name,seller_ids/min_qty
+1,BROCAS CELESA,Broca HSS-E Ref. BC31  Ø17 mm,38.96,0.00,Stockable Product,stock.route_warehouse0_mto,,
+2,RECTIFICADO,Hacer mecha Ø7.5  Destalonar + TIALSIN + Pulido,37.75,25.50,Stockable Product,stock.route_warehouse0_mto,rectificado,75
+3,PORTAS  NT,MC20-12,45.24,0.00,Stockable Product,stock.route_warehouse0_mto,,
+4,PORTAS  NT,MC20-8,45.24,0.00,Stockable Product,stock.route_warehouse0_mto,,
+5,PORTAS  NT,HSK63A-NIK12-120G,319.91,236.97,Stockable Product,stock.route_warehouse0_mto,,
+6,PORTAS  NT,Pinza Precision  FDC-10012AA,85.75,55.81,Stockable Product,stock.route_warehouse0_mto,,
+7,BROCAS STOCK,Broca HSS-E DIN 338 R-N  Ref. 71116 Ø0.7 mm,3.41,1.88,Stockable Product,stock.route_warehouse0_mto,,
+8,DJ543 Broca HPD-SUS Corta,Broca 570701400  Ø14.00,57.78,23.06,Stockable Product,stock.route_warehouse0_mto,,
+9,Escariador  Centesimal   MD 8600,Escariador  MD  8600  Ø5.02 mm,59.25,27.06,Stockable Product,stock.route_warehouse0_mto,,
+10,AVELLANADOR,Avellanador  HSS-E  90º Ref. AV38  Ø25   +  TICN,127.58,67.54,Stockable Product,stock.route_warehouse0_mto,,
+11,CONTRAPUNTOS,Contrapunto Acero Ø23 S/Plano 911888A,99.85,67.00,Stockable Product,stock.route_warehouse0_mto,,
+12,RECTIFICADO,Rectificar Mango Completo X-WHEX 100100 a  Ø9.8 mm,34.00,0.00,Stockable Product,stock.route_warehouse0_mto,,
+13,ESCARIADOR,Escariador HSS-E M.Conico Ref. EM7  Ø22.50 mm,108.3,48.74,Stockable Product,stock.route_warehouse0_mto,,
+85159,FAGOR,BIF 01 N / Base de Toma TV/R Final de cascadaDerivacion 3 dB,,2.17,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85160,FAGOR,BIF 05 N / Base de Toma TV/R IntermediaDerivacion 7 dB,,2.42,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85161,FAGOR,BIF 09 N / Base de Toma TV/R IntermediaDerivacion 11 dB,,2.42,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85162,FAGOR,BIF 14 N / Base de Toma TV/R IntermediaDerivacion 15 dB,,2.42,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85163,FAGOR,"BRF 00 N / Base de Toma puenteada.Derivacion 1,5 dB",,1.61,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85164,FAGOR,"BIF 01 S / Base de Toma TV/R IndividualDerivacion 0,5 dB",,2.17,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85165,FAGOR,BID 01 N / Base de Toma TV/R Individual,,3.29,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85166,FAGOR,BID 10 N / Base de Toma TV/R Final de cascada,,3.80,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85167,FAGOR,TAP 210 / Derivador 1ª FI SAT 2 salidas Derivacion 10 dB,,2.26,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85168,FAGOR,TAP 212 / Derivador 1ª FI SAT 2 salidas Derivacion 12 dB,,2.26,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85169,FAGOR,TAP 215 / Derivador 1ª FI SAT 2 salidas Derivacion 15 dB,,2.26,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85170,FAGOR,TAP 220 / Derivador 1ª FI SAT 2 salidas Derivacion 20 dB,,2.26,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85171,FAGOR,TAP 225 / Derivador 1ª FI SAT 2 salidas Derivacion 25 dB,,2.26,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85172,FAGOR,TAP 110 / Derivador 1ª FI SAT 1 salida,,1.89,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85173,FAGOR,REP 204 / Distribuidor 1ª FI SAT 2 salidas paso corriente,,2.07,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85174,FAGOR,REP 307 / Distribuidor 1ª FI SAT 3 salidas paso corriente,,2.35,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85175,FAGOR,REP 409 / Distribuidor 1ª FI SAT 4 salidas paso corriente,,2.89,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85176,FAGOR,REP 613 / Distribuidor 1ª FI SAT 6 salidas paso corriente,,4.03,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85177,FAGOR,REP 815 / Distribuidor 1ª FI SAT 8 salidas paso corriente,,4.66,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85178,FAGOR,PAU 22 F / PAU - Distribuidor Conector F 2 Entradas,,2.28,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85179,FAGOR,"PAU 23 F / PAU - Distribuidor Conector F 2 Entradas: una con 75 Ohm. 3 Salidas.Insercion - 8,2 dB",,2.89,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85180,FAGOR,"PAU 25 F / PAU - Distribuidor Conector F 2 Entradas: una con 75 Ohm. 5 Salidas.Insercion - 14,7 dB",,3.96,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85181,FAGOR,"PAU 24 F / PAU - Distribuidor Conector F 2 Entradas: una con 75 Ohm. 4 Salidas.Insercion - 9,5 dB",,3.43,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85182,FAGOR,"PAU 26 F / PAU - Distribuidor Conector F 2 Entradas: una con 75 Ohm. 6 Salidas.Insercion - 14,9 dB",,4.43,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85183,FAGOR,PAU 28 F / PAU - Distribuidor Conector F 2 Entradas: una con 75 Ohm. 8 Salidas.Insercion - 16 dB,,5.18,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85184,FAGOR,"DIS 409 + / Distribuidor 1ª FI SAT 4 salidas. Insercion -8,5 dB",,4.06,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85185,FAGOR,"DIS 513 + / Distribuidor 1ª FI SAT 5 salidas (3 salidas a -9dB y 2 a -12,5dB). ",,5.48,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85186,FAGOR,DIS 204 S / Distribuidor 1ª FI SAT 2 salidas.  ,,2.70,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85187,FAGOR,DIS 307 S / Distribuidor 1ª FI SAT 3 salidas.  ,,3.55,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85188,FAGOR,DES 107 S / Derivador 1ª FI SAT 1 salidas,,2.85,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85189,FAGOR,DES 111 S / Derivador 1ª FI SAT 1 salidas,,2.85,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85190,FAGOR,DES 116 S / Derivador 1ª FI SAT 1salidas,,2.85,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85191,FAGOR,DES 120 S / Derivador 1ª FI SAT 1 salidas,,2.85,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85192,FAGOR,DES 225 + / Derivador 1ª FI SAT 2 salidas,,3.52,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85193,FAGOR,DES 211 S / Derivador 1ª FI SAT 2 salidas,,3.52,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85194,FAGOR,DES 216 S / Derivador 1ª FI SAT 2 salidas,,3.52,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85195,FAGOR,DES 220 S / Derivador 1ª FI SAT 2 salidas,,3.52,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85196,FAGOR,DES 411 + / Derivador 1ª FI SAT 4 salidas Derivacion -11 dB,,4.48,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85197,FAGOR,DES 416 + / Derivador 1ª FI SAT 4 salidas Derivacion -16 dB,,4.48,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85198,FAGOR,DES 420 + / Derivador 1ª FI SAT 4 salidas Derivacion -20 dB,,4.48,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85199,FAGOR,DES 425 + / Derivador 1ª FI SAT 4 salidas Derivacion -25 dB,,4.48,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85200,FAGOR,"PAU 22 + / PAU Puente y Brida 2 Entradas - 2 Salidas Insercion - 0,5 dB",,1.87,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85201,FAGOR,"PAU 204 + / PAU - Distribuidor Puente y Brida 2 Entradas: una con 75 Ohm. 2 Salidas.Insercion - 4,5 dB",,1.87,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85202,FAGOR,"PAU 409 + / PAU - Distribuidor Puente y Brida 2 Entradas: una con 75 Ohm. 4 Salidas.Insercion - 8,5 dB",,3.03,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85203,FAGOR,TAP 412 / Derivador 1ª FI SAT 4 salidas Derivacion 12 dB,,3.06,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85204,FAGOR,TAP 415 / Derivador 1ª FI SAT 4 salidas Derivacion 15  dB,,3.06,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85205,FAGOR,TAP 420 / Derivador 1ª FI SAT 4 salidas Derivacion 20 dB,,3.06,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85206,FAGOR,TAP 425 / Derivador 1ª FI SAT 4 salidas Derivacion 25 dB,,3.06,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85207,FAGOR,REP 204C / Distribuidor 5-1000 MHz 2 salidas DC Block,,1.56,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85208,FAGOR,REP 408 C / Distribuidor 5-1000 MHz 4 salidas DC Block,,2.28,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85209,FAGOR,REP 612 C / Distribuidor 5-1000 MHz 6 salidas DC Block,,3.29,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85210,FAGOR,DER 214 C / Derivador 5-1000 MHz 2 salidas DC Block,,1.82,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85211,FAGOR,DER 217 C / Derivador 5-1000 MHz 2 salidas DC Block,,1.82,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85212,FAGOR,DER 223 C / Derivador 5-1000 MHz 2 salidas DC Block,,1.82,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85213,FAGOR,DER 226 C / Derivador 5-1000 MHz 2 salidas DC Block,,1.82,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85214,FAGOR,DER 414 C / Derivador 5-1000 MHz 4 salidas DC Block,,2.31,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85215,FAGOR,DER 417 C / Derivador 5-1000 MHz 4 salidas DC Block,,2.31,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85216,FAGOR,DER 423 C / Derivador 5-1000 MHz 4 salidas DC Block,,2.31,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85217,FAGOR,DER 426 C / Derivador 5-1000 MHz 4 salidas DC Block,,2.31,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85218,FAGOR,TAP 615 / Derivador 1ª FI SAT 6 salidas Derivacion 15 dB,,3.71,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85219,FAGOR,TAP 620 / Derivador 1ª FI SAT 6 salidas Derivacion 20 dB,,3.71,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85220,FAGOR,TAP 625 / Derivador 1ª FI SAT 6 salidas Derivacion 25 dB,,3.71,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85221,FAGOR,TAP 815 / Derivador 1ª FI SAT 8 salidas Derivacion 15 dB,,4.03,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85222,FAGOR,TAP 820 / Derivador 1ª FI SAT 8 salidas Derivacion 20 dB,,4.03,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85223,FAGOR,TAP 825 / Derivador 1ª FI SAT 8 salidas Derivacion 25 dB,,4.03,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85224,FAGOR,"BSD 203 DC / Base de toma TV, R / SAT. Final.   Con paso de corriente Derivacion -3 dB",,2.42,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85225,FAGOR,"BSD 203 N / Base de toma TV, R / SAT. Final    Derivacion -3 dB",,2.17,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85226,FAGOR,"BSD 210 DC / Base de toma TV, R / SAT. Intermedia. Con paso de corriente.    Derivacion -12 dB",,2.68,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85227,FAGOR,"BSD 215 N / Base de toma TV, R / SAT. Intermedia         Derivacion -16 dB",,2.42,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85228,FAGOR,"BSD 201 S LTE / Base de toma TV, R / SAT. Individual                  ",,2.08,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85229,FAGOR,"BSD 201 S / Base de toma TV, R / SAT. Individual    Derivacion -1 dB",,2.08,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85230,FAGOR,"BSD 210 N / Base de toma TV, R / SAT. Intermedia        Derivacion -12 dB",,2.42,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85231,FAGOR,"BSD 220 N / Base de toma TV, R / SAT. Intermedia         Derivacion -20 dB",,2.42,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85232,FAGOR,"BSD 201 S DC / Base de toma TV, R / SAT. Individual. Con paso de corriente.                Derivacion -1 dB",,2.26,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85233,FAGOR,"BSD 403 DC / Base de toma 2 salidas iguales (TV, R + SAT) Final          Paso de corriente IN-OUT y SAT       ",,2.26,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85234,FAGOR,"BSD 411 DC / Base de toma 2 salidas iguales (TV, R + SAT)                     Paso de corriente IN-OUT y SAT       ",,2.57,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85235,FAGOR,"BSD 416 DC / Base de toma 2 salidas iguales (TV, R + SAT)                     Paso de corriente IN-OUT y SAT       ",,2.57,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85236,FAGOR,"BSD 420 DC / Base de toma 2 salidas iguales (TV, R + SAT)                     Paso de corriente IN-OUT y SAT       ",,2.57,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85237,FAGOR,"BSD 425 DC / Base de toma 2 salidas iguales (TV, R + SAT)                     Paso de corriente IN-OUT y SAT       ",,2.57,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85238,FAGOR,"BSD 301 / Base de toma final, 3 salidas (TV/FM/SAT)",,2.94,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85239,FAGOR,"BSD 310 / Base de toma intermedial, 3 salidas (TV/FM/SAT)",,2.94,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85240,FAGOR,"DXR 2D + / Distribuidor Combinador para cabecera ICT, 3 entradas-2 salidas RF -5,5 dB; SAT -1,5 dB",,11.73,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85241,FAGOR,"DXR 216 +  / Diplexor - Mezclador  1ª FI SAT / RFRF -1,7dB; SAT -2dB",,4.92,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85242,FAGOR,FTP 505 / Derivador blindado 5 IN / 5 OUT ,,21.42,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85243,FAGOR,FTP 510 / Derivador blindado 5 IN / 10 OUT ,,23.21,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85244,FAGOR,FTP 909 / Derivador blindado 9 IN / 9 OUT ,,28.56,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85245,FAGOR,FTP 918 / Derivador blindado 9 IN / 18 OUT ,,32.13,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85246,FAGOR,FTP 1717 / Derivador blindado 17 IN / 17 OUT ,,33.92,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85247,FAGOR,FTP 1734 / Derivador blindado 17 IN / 34 OUT ,,37.49,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85248,FAGOR,"CIF 6000 + A/D / Conversor de canal por FI analogico y digital DVB T, entrada BI÷BV   E02 - E69",,154.88,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85249,FAGOR,IFL 6000  / Conversor 1ª FI SAT - 1ª FI SAT. Dos transpondedores con CAG,,156.96,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85250,FAGOR,IFL 6000 T  / Conversor 1ª FI SAT - 1ª FI SAT. Terminal. Dos transpondedores con CAG y entradas independientes .,,156.96,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85251,FAGOR,"CIF 7000 + A/D / Conversor de canal por FI analogico y digital DVB T,  entrada BI÷BV   E02 - E69",,154.88,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85252,FAGOR,IFL 7000  / Conversor 1ª FI SAT - 1ª FI SAT. Dos transpondedores con CAG,,156.96,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85253,FAGOR,IFL 7000 T  / Conversor 1ª FI SAT - 1ª FI SAT. Terminal. Dos transpondedores con CAG y entradas independientes .,,156.96,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85254,FAGOR,DEN 8000 / Encoder digital 4 IN A/V ? MPEG 2 (ASI),,900.72,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85255,FAGOR,DMT 8000 / Modulador digital ASI ? COFDM,,180.16,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85256,FAGOR,ACM 800 / Modulador ASI ? QAM,,190.12,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85257,FAGOR,HAN 8000 / Transmodulador DVB-T a DVB-C - Free-to-air,,1734.00,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85258,FAGOR,SDR 8000 / Transmodulador DVB-T a DVB-C Common Interface,,836.40,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85259,FAGOR,TCT 8000 / Transmodulador DVB-T a DVB-C - Free-to-air,,340.40,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85260,FAGOR,TCT-CI 8000 / Transmodulador DVB-T a DVB-C Common Interface,,399.24,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85261,FAGOR,SCT 8000 / Transmodulador DVB-S/S2 a DVB-C - Free-to-air,,323.44,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85262,FAGOR,SCT-CI 8000 / Transmodulador DVB-S/S2 a DVB-C Common Interface,,401.28,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85263,FAGOR,SCT TWIN 8000 / Transmodulador Doble Entrada/Doble Salida DVB-S/S2 a DVB-C FREE TO AIR,,516.00,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85264,FAGOR,SCT-CI  TWIN 8000 / Transmodulador Doble Entrada/Doble Salida DVB-S/S2 a DVB-C- COMMON INTERFACE,,642.00,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85265,FAGOR,STT TWIN 8000 / Transmodulador Doble Entrada/Doble Salida DVB-S/S2 a DVB-T FREE TO AIR,,490.00,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85266,FAGOR,STT -CI TWIN 8000 / Transmodulador Doble Entrada/Doble Salida DVB-S/S2 a DVB-T - COMMON INTERFACE,,620.00,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85267,FAGOR,STT 8000 / Transmodulador QPSK/COFDM,,294.48,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85268,FAGOR,STT-CI 8000 / Transmodulador QPSK/COFDM Common Interface,,397.00,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85269,FAGOR,TTT 8000 / Transmodulador DVB-T a DVB-T- Free-to-air,,348.68,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85270,FAGOR,TTT-CI 8000 / Transmodulador DVB-T a DVB-T Common Interface,,412.04,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85271,FAGOR,SM 6000 +  / Modulador Audio - Video BLVE2 - E69,,127.96,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85272,FAGOR,"SM 6000 ST +  / Modulador ESTEREO-DUAL, Audio - Video BLV E2 - E69",,147.00,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85273,FAGOR,SM 7000 +  / Modulador Audio - Video BLV E2 - E69,,127.96,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85274,FAGOR,SM 7000 ST+  / Modulador ESTEREO - DUAL  Audio-Video BLV E2 - E69,,147.00,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85275,FAGOR,SM 8000 / Modulador Audio-Video / BLV E2-E69,,122.60,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85276,FAGOR,"SM-ST 8000 / Modulador ESTEREO-DUAL, Audio-Video/BLV  E2-E69",,154.88,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85277,FAGOR,SM-TWIN 8000 / Modulador Audio-Video Doble / BLV E2-E69,,178.12,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85278,FAGOR,"SM-TWIN-ST 8000 / Modulador ESTEREO-DUAL Doble, Audio-Video/BLV  E2-E69",,225.72,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85279,FAGOR,SM-TWIN-W 8000 / Modulador Audio-Video Doble / BLV E2-E69,,178.12,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85280,FAGOR,TDM 6000   / Demodulador - Modulador Digital Terrestre CODFM/PAL. Canales libres E2 - E69,,173.12,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85281,FAGOR,TDM 6000 ST / Demodulador - Modulador Digital Terrestre CODFM/PAL. Canales libres. Estereo.E2 - E69,,193.00,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85282,FAGOR,TDM 7000  / Demodulador - Modulador Digital Terrestre CODFM / PAL. Canales libres E2 - E69,,173.12,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85283,FAGOR,TDM 7000 ST / Demodulador - Modulador Digital Terrestre CODFM / PAL. Canales libres. Estereo.E2 - E69,,193.00,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85284,FAGOR,SDM 6000 + / Demodulador - Modulador QPSK/AM PAL Canales libres E2 - E69,,190.08,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85285,FAGOR,SDM 6000 + ST / Demodulador - Modulador QPSK/AM Canales libres. EstereoE2 - E69,,218.64,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85286,FAGOR,SDM 7000 + / Demodulador - Modulador QPSK/AM PAL Canales libres E2 - E69,,190.08,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85287,FAGOR,SDM 7000 + ST / Demodulador - Modulador QPSK/AM Canales libres. Estereo E2 - E69,,218.64,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85288,FAGOR,"NEX 645 CH 21 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",,34.92,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85289,FAGOR,"NEX 645 CH 22 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",,34.92,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85290,FAGOR,"NEX 645 CH 23 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",,34.92,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85291,FAGOR,"NEX 645 CH 24 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",,34.92,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85292,FAGOR,"NEX 645 CH 25 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",,34.92,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85293,FAGOR,"NEX 645 CH 26 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",,34.92,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85294,FAGOR,"NEX 645 CH 27 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",,34.92,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85295,FAGOR,"NEX 645 CH 28 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",,34.92,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85296,FAGOR,"NEX 645 CH 29 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",,34.92,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85297,FAGOR,"NEX 645 CH 30 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",,34.92,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85298,FAGOR,"NEX 645 CH 31 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",,34.92,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85299,FAGOR,"NEX 645 CH 32 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",,34.92,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85300,FAGOR,"NEX 645 CH 33 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",,34.92,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85301,FAGOR,"NEX 645 CH 34 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",,34.92,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85302,FAGOR,"NEX 645 CH 35 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",,34.92,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85303,FAGOR,"NEX 645 CH 36 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",,34.92,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85304,FAGOR,"NEX 645 CH 37 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",,34.92,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85305,FAGOR,"NEX 645 CH 38 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",,34.92,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85306,FAGOR,"NEX 645 CH 39 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",,34.92,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85307,FAGOR,"NEX 645 CH 40 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",,34.92,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85308,FAGOR,"NEX 645 CH 41 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",,34.92,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85309,FAGOR,"NEX 645 CH 42 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",,34.92,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85310,FAGOR,"NEX 645 CH 43 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",,34.92,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85311,FAGOR,"NEX 645 CH 44 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",,34.92,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85312,FAGOR,"NEX 645 CH 45 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",,34.92,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85313,FAGOR,"NEX 645 CH 46 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",,34.92,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85314,FAGOR,"NEX 645 CH 47 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",,34.92,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85315,FAGOR,"NEX 645 CH 48 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",,34.92,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85316,FAGOR,"NEX 645 CH 49 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",,34.92,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85317,FAGOR,"NEX 645 CH 50 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",,34.92,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85318,FAGOR,"NEX 645 CH 51 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",,34.92,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85319,FAGOR,"NEX 645 CH 52 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",,34.92,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85320,FAGOR,"NEX 645 CH 53 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",,34.92,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85321,FAGOR,"NEX 645 CH 54 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",,34.92,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85322,FAGOR,"NEX 645 CH 55 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",,34.92,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85323,FAGOR,"NEX 645 CH 56 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",,34.92,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85324,FAGOR,"NEX 645 CH 57 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",,34.92,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85325,FAGOR,"NEX 645 CH 58 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",,34.92,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85326,FAGOR,"NEX 645 CH 59 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",,34.92,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85327,FAGOR,"NEX 645 CH 60 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",,34.92,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85328,FAGOR,"NEX 645 CH 61 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",,34.92,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85329,FAGOR,"NEX 645 CH 62 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",,34.92,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85330,FAGOR,"NEX 645 CH 63 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",,34.92,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85331,FAGOR,"NEX 645 CH 64 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",,34.92,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85332,FAGOR,"NEX 645 CH 65 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",,34.92,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85333,FAGOR,"NEX 645 CH 66 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",,34.92,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85334,FAGOR,"NEX 645 CH 67 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",,34.92,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85335,FAGOR,"NEX 645 CH 68 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",,34.92,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85336,FAGOR,"022  5D.N30.14   Ø11,1",149.76,47.31,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85337,FAGOR,"022  5D.N30.14   Ø9,5",90.21,28.50,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85338,FAGOR,"022  5D.N30.14   Ø10,9",149.76,47.31,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85339,FAGOR,"022  5D.N30.14   Ø9,6",90.21,28.50,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85340,FAGOR,"022  5D.N30.14   Ø10,7",149.76,47.31,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85341,FAGOR,"022  5D.N30.14   Ø10,6",149.76,47.31,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85342,FAGOR,"022  5D.N30.14   Ø10,5",149.76,47.31,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85343,FAGOR,"022  5D.N30.14   Ø10,4",149.76,47.31,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85344,FAGOR,"022  5D.N30.14   Ø10,3",149.76,47.31,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85345,FAGOR,"022  5D.N30.14   Ø10,2",149.76,47.31,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85346,FAGOR,"022  5D.N30.14   Ø10,1",149.76,47.31,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85347,FAGOR,022  5D.N30.14   Ø10,90.21,28.50,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85348,FAGOR,"022  5D.N30.14   Ø9,9",90.21,28.50,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85349,FAGOR,"022  5D.N30.14   Ø9,8",90.21,28.50,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85350,FAGOR,022  5D.N30.14   Ø7,70.16,22.16,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85351,FAGOR,022  5D.N30.14   Ø11,149.76,47.31,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85352,FAGOR,"022  5D.N30.14   Ø3,1",56.78,17.94,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85353,FAGOR,"022  5D.N30.14   Ø4,3",56.78,17.94,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85354,FAGOR,"022  5D.N30.14   Ø4,2",56.78,17.94,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85355,FAGOR,"022  5D.N30.14   Ø4,1",56.78,17.94,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85356,FAGOR,022  5D.N30.14   Ø4,56.78,17.94,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85357,FAGOR,"022  5D.N30.14   Ø3,9",56.78,17.94,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85358,FAGOR,"022  5D.N30.14   Ø3,8",56.78,17.94,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85359,FAGOR,"022  5D.N30.14   Ø3,7",56.78,17.94,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85360,FAGOR,"022  5D.N30.14   Ø3,6",56.78,17.94,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85361,FAGOR,"022  5D.N30.14   Ø3,5",56.78,17.94,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85362,FAGOR,"022  5D.N30.14   Ø3,4",56.78,17.94,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85363,FAGOR,"022  5D.N30.14   Ø7,2",70.16,22.16,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85364,FAGOR,"022  5D.N30.14   Ø3,2",56.78,17.94,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85365,FAGOR,"022  5D.N30.14   Ø4,6",56.78,17.94,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85366,FAGOR,022  5D.N30.14   Ø3,56.78,17.94,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85367,FAGOR,020  3D.N30.14   Ø20,305.24,96.43,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85368,FAGOR,"020  3D.N30.14   Ø19,8",305.24,96.43,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85369,FAGOR,"020  3D.N30.14   Ø19,5",305.24,96.43,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85370,FAGOR,020  3D.N30.14   Ø19,305.24,96.43,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85371,FAGOR,"020  3D.N30.14   Ø18,5",305.24,96.43,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85372,FAGOR,020  3D.N30.14   Ø18,251.58,79.47,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85373,FAGOR,"020  3D.N30.14   Ø17,8",251.58,79.47,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85374,FAGOR,"020  3D.N30.14   Ø17,5",251.58,79.47,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85375,FAGOR,020  3D.N30.14   Ø17,251.58,79.47,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85376,FAGOR,"022  5D.N30.14   Ø3,3",56.78,17.94,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85377,FAGOR,"022  5D.N30.14   Ø5,7",56.78,17.94,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85378,FAGOR,"022  5D.N30.14   Ø6,9",70.16,22.16,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85379,FAGOR,"022  5D.N30.14   Ø6,8",70.16,22.16,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85380,FAGOR,"022  5D.N30.14   Ø6,7",70.16,22.16,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85381,FAGOR,"022  5D.N30.14   Ø6,6",70.16,22.16,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85382,FAGOR,"022  5D.N30.14   Ø6,5",70.16,22.16,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85383,FAGOR,"022  5D.N30.14   Ø6,4",70.16,22.16,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85384,FAGOR,"022  5D.N30.14   Ø6,3",70.16,22.16,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85385,FAGOR,"022  5D.N30.14   Ø6,2",70.16,22.16,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85386,FAGOR,"022  5D.N30.14   Ø6,1",70.16,22.16,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85387,FAGOR,022  5D.N30.14   Ø6,56.78,17.94,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85388,FAGOR,"022  5D.N30.14   Ø4,4",56.78,17.94,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85389,FAGOR,"022  5D.N30.14   Ø5,8",56.78,17.94,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85390,FAGOR,"022  5D.N30.14   Ø4,5",56.78,17.94,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85391,FAGOR,"022  5D.N30.14   Ø5,6",56.78,17.94,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85392,FAGOR,"022  5D.N30.14   Ø5,5",56.78,17.94,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85393,FAGOR,"022  5D.N30.14   Ø5,4",56.78,17.94,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85394,FAGOR,"022  5D.N30.14   Ø5,3",56.78,17.94,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85395,FAGOR,"022  5D.N30.14   Ø5,2",56.78,17.94,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85396,FAGOR,"022  5D.N30.14   Ø5,1",56.78,17.94,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85397,FAGOR,022  5D.N30.14   Ø5,56.78,17.94,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85398,FAGOR,"022  5D.N30.14   Ø4,9",56.78,17.94,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85399,FAGOR,"022  5D.N30.14   Ø4,8",56.78,17.94,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85400,FAGOR,"022  5D.N30.14   Ø4,7",56.78,17.94,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85401,FAGOR,Recubrimiento  TIALN,,0.00,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85402,FAGOR,"022  5D.N30.14   Ø5,9",56.78,17.94,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85403,FAGOR,"020  3D.N30.T14   Ø4,6",69.1,21.83,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85404,FAGOR,"020  3D.N30.T14   Ø5,8",69.1,21.83,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85405,FAGOR,"020  3D.N30.T14   Ø5,7",69.1,21.83,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85406,FAGOR,"020  3D.N30.T14   Ø5,6",69.1,21.83,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85407,FAGOR,"020  3D.N30.T14   Ø5,5",69.1,21.83,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85408,FAGOR,"020  3D.N30.T14   Ø5,4",69.1,21.83,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85409,FAGOR,"020  3D.N30.T14   Ø5,3",69.1,21.83,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85410,FAGOR,"020  3D.N30.T14   Ø5,2",69.1,21.83,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85411,FAGOR,"020  3D.N30.T14   Ø5,1",69.1,21.83,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85412,FAGOR,020  3D.N30.T14   Ø5,69.1,21.83,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85413,FAGOR,"020  3D.N30.T14   Ø4,9",69.1,21.83,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85414,FAGOR,CN-FT,,17.50,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85415,FAGOR,"020  3D.N30.T14   Ø4,7",69.1,21.83,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85416,FAGOR,"020  3D.N30.T14   Ø6,1",95.36,30.12,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85417,FAGOR,"020  3D.N30.T14   Ø4,5",69.1,21.83,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85418,FAGOR,"020  3D.N30.T14   Ø4,4",69.1,21.83,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85419,FAGOR,"020  3D.N30.T14   Ø4,3",69.1,21.83,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85420,FAGOR,"020  3D.N30.T14   Ø4,2",69.1,21.83,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85421,FAGOR,"020  3D.N30.T14   Ø4,1",69.1,21.83,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85422,FAGOR,020  3D.N30.T14   Ø4,69.1,21.83,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85423,FAGOR,"020  3D.N30.T14   Ø3,9",69.1,21.83,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85424,FAGOR,"020  3D.N30.T14   Ø3,8",69.1,21.83,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85425,FAGOR,"020  3D.N30.T14   Ø3,7",69.1,21.83,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85426,FAGOR,"020  3D.N30.T14   Ø3,6",69.1,21.83,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85427,FAGOR,"020  3D.N30.T14   Ø4,8",69.1,21.83,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85428,FAGOR,"020  3D.N30.T14   Ø7,2",95.36,30.12,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85429,FAGOR,DN40A-HFD12-135-S85,2287.5,915.00,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85430,FAGOR,"020  3D.N30.T14   Ø8,3",113.87,35.97,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85431,FAGOR,"020  3D.N30.T14   Ø8,2",113.87,35.97,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85432,FAGOR,"020  3D.N30.T14   Ø8,1",113.87,35.97,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85433,FAGOR,020  3D.N30.T14   Ø8,95.36,30.12,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85434,FAGOR,"020  3D.N30.T14   Ø7,9",95.36,30.12,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85435,FAGOR,"020  3D.N30.T14   Ø7,8",95.36,30.12,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85436,FAGOR,"020  3D.N30.T14   Ø7,7",95.36,30.12,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85437,FAGOR,"020  3D.N30.T14   Ø7,6",95.36,30.12,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85438,FAGOR,"020  3D.N30.T14   Ø7,5",95.36,30.12,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85439,FAGOR,"020  3D.N30.T14   Ø5,9",69.1,21.83,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85440,FAGOR,"020  3D.N30.T14   Ø7,3",95.36,30.12,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85441,FAGOR,020  3D.N30.T14   Ø6,69.1,21.83,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85442,FAGOR,"020  3D.N30.T14   Ø7,1",95.36,30.12,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85443,FAGOR,020  3D.N30.T14   Ø7,95.36,30.12,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85444,FAGOR,"020  3D.N30.T14   Ø6,9",95.36,30.12,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85445,FAGOR,"020  3D.N30.T14   Ø6,8",95.36,30.12,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85446,FAGOR,"020  3D.N30.T14   Ø6,7",95.36,30.12,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85447,FAGOR,"020  3D.N30.T14   Ø6,6",95.36,30.12,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85448,FAGOR,"020  3D.N30.T14   Ø6,5",95.36,30.12,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85449,FAGOR,"020  3D.N30.T14   Ø6,4",95.36,30.12,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85450,FAGOR,"020  3D.N30.T14   Ø6,3",95.36,30.12,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85451,FAGOR,"020  3D.N30.T14   Ø6,2",95.36,30.12,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85452,FAGOR,"020  3D.N30.T14   Ø3,3",69.1,21.83,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85453,FAGOR,"020  3D.N30.T14   Ø7,4",95.36,30.12,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85454,FAGOR,Reafilado Broca  MD  Ø4 + TIALN,13.5,0.00,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85455,FAGOR,"020  3D.N30.T14   Ø3,5",69.1,21.83,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85456,FAGOR,"022  5D.N30.14   Ø11,9",149.76,47.31,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85457,FAGOR,"022  5D.N30.14   Ø11,8",149.76,47.31,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85458,FAGOR,"022  5D.N30.14   Ø11,7",149.76,47.31,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85459,FAGOR,"022  5D.N30.14   Ø11,6",149.76,47.31,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85460,FAGOR,"022  5D.N30.14   Ø11,5",149.76,47.31,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85461,FAGOR,"022  5D.N30.14   Ø11,4",149.76,47.31,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85462,FAGOR,"022  5D.N30.14   Ø11,3",149.76,47.31,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85463,FAGOR,"022  5D.N30.14   Ø11,2",149.76,47.31,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85464,FAGOR,MD Ø0.075x1.2 mm,13.02,4.20,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85465,FAGOR,"022  5D.N30.14   Ø12,3",190.43,60.16,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85466,FAGOR,Reafilado Broca  MD  Ø4.5 + TIALN,15.5,0.00,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85467,FAGOR,"022  5D.N30.14   Ø12,8",190.43,60.16,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85468,FAGOR,Broca especial  MD  Ø,,0.00,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85469,FAGOR,Broca especial  HSS-E  Ø,,0.00,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85470,FAGOR,Broca especial  HSS-E-PM  Ø,,0.00,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85471,FAGOR,Broca  HSS-E-PM  Ø,,0.00,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85472,FAGOR,Broca  HSS-E  Ø,,0.00,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85473,FAGOR,Broca  MD  Ø,,0.00,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85474,FAGOR,Reafilado Broca  MD  Ø3.5 + TIALN,13.5,0.00,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85475,FAGOR,Reafilado Broca  MD  Ø3 + TIALN,13.5,0.00,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85476,FAGOR,Recubrimiento  NCr,,0.00,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85477,FAGOR,Recubrimiento  HARD MAX,,0.00,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85478,FAGOR,020  3D.N30.14   Ø16,175.72,55.51,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85479,FAGOR,Reafilado Broca  MD  Ø5 + TIALN,15.5,0.00,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85480,FAGOR,022  5D.N30.14   Ø17,283.6,89.59,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85481,FAGOR,Recubrimiento  TIN,,0.00,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85482,FAGOR,"020  3D.N30.T14   Ø3,2",69.1,21.83,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85483,FAGOR,"020  3D.N30.T14   Ø3,1",69.1,21.83,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85484,FAGOR,020  3D.N30.T14   Ø3,69.1,21.83,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85485,FAGOR,022  5D.N30.14   Ø20,344.42,108.80,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85486,FAGOR,"022  5D.N30.14   Ø19,8",344.42,108.80,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85487,FAGOR,"022  5D.N30.14   Ø19,5",344.42,108.80,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85488,FAGOR,022  5D.N30.14   Ø19,344.42,108.80,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85489,FAGOR,"022  5D.N30.14   Ø18,5",344.42,108.80,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85490,FAGOR,022  5D.N30.14   Ø18,283.6,89.59,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85491,FAGOR,022  5D.N30.14   Ø12,149.76,47.31,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85492,FAGOR,"022  5D.N30.14   Ø17,5",283.6,89.59,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85493,FAGOR,"020  3D.N30.T14   Ø3,4",69.1,21.83,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85494,FAGOR,"022  5D.N30.14   Ø16,8",283.6,89.59,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85495,FAGOR,"022  5D.N30.14   Ø16,5",283.6,89.59,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85496,FAGOR,022  5D.N30.14   Ø16,198.74,62.78,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85497,FAGOR,"022  5D.N30.14   Ø15,8",198.74,62.78,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85498,FAGOR,"022  5D.N30.14   Ø15,5",198.74,62.78,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85499,FAGOR,022  5D.N30.14   Ø15,198.74,62.78,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85500,FAGOR,"022  5D.N30.14   Ø14,8",198.74,62.78,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85501,FAGOR,"022  5D.N30.14   Ø14,5",198.74,62.78,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85502,FAGOR,022  5D.N30.14   Ø14,190.43,60.16,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85503,FAGOR,"022  5D.N30.14   Ø13,8",190.43,60.16,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85504,FAGOR,"022  5D.N30.14   Ø13,5",190.43,60.16,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85505,FAGOR,"022  5D.N30.14   Ø17,8",283.6,89.59,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85506,FAGOR,010  3D.N30.14   Ø8.3,72.7,22.97,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85507,FAGOR,010  3D.N30.14   Ø9.5,81.94,25.89,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85508,FAGOR,010  3D.N30.14   Ø9.4,84.66,26.74,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85509,FAGOR,010  3D.N30.14   Ø9.3,84.66,26.74,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85510,FAGOR,010  3D.N30.14   Ø9.2,84.66,26.74,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85511,FAGOR,010  3D.N30.14   Ø9.1,84.66,26.74,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85512,FAGOR,010  3D.N30.14   Ø9.0,75.23,23.77,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85513,FAGOR,010  3D.N30.14   Ø8.9,78.71,24.86,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85514,FAGOR,010  3D.N30.14   Ø8.8,78.71,24.86,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85515,FAGOR,010  3D.N30.14   Ø8.7,78.71,24.86,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85516,FAGOR,010  3D.N30.14   Ø8.6,78.71,24.86,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85517,FAGOR,"020  3D.N30.14   Ø3,1",32.4,10.24,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85518,FAGOR,010  3D.N30.14   Ø8.4,72.7,22.97,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85519,FAGOR,010  3D.N30.14   Ø9.8,87.13,27.53,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85520,FAGOR,010  3D.N30.14   Ø8.2,72.7,22.97,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85521,FAGOR,010  3D.N30.14   Ø8.1,72.7,22.97,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85522,FAGOR,010  3D.N30.14   Ø8.0,61.68,19.48,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85523,FAGOR,010  3D.N30.14   Ø7.9,61.68,19.48,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85524,FAGOR,010  3D.N30.14   Ø7.8,61.68,19.48,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85525,FAGOR,010  3D.N30.14   Ø7.7,61.68,19.48,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85526,FAGOR,010  3D.N30.14   Ø7.6,61.68,19.48,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85527,FAGOR,010  3D.N30.14   Ø7.5,55.97,17.68,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85528,FAGOR,010  3D.N30.14   Ø7.4,56.21,17.76,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85529,FAGOR,010  3D.N30.14   Ø7.3,56.21,17.76,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85530,FAGOR,010  3D.N30.14   Ø8.5,74.63,23.58,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85531,FAGOR,"010  3D.N30.14   Ø14,5",162.77,51.42,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85532,FAGOR,"020  3D.N30.14   Ø16,8",251.58,79.47,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85533,FAGOR,010  3D.N30.14   Ø20,305.24,96.43,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85534,FAGOR,"010  3D.N30.14   Ø19,5",297.63,94.02,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85535,FAGOR,010  3D.N30.14   Ø19,285.11,90.07,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85536,FAGOR,"010  3D.N30.14   Ø18,5",277.5,87.66,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85537,FAGOR,010  3D.N30.14   Ø18,251.58,79.47,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85538,FAGOR,"010  3D.N30.14   Ø17,5",233.79,73.85,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85539,FAGOR,010  3D.N30.14   Ø17,213.69,67.50,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85540,FAGOR,"010  3D.N30.14   Ø16,5",199.73,63.10,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85541,FAGOR,010  3D.N30.14   Ø16,175.72,55.51,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85542,FAGOR,010  3D.N30.14   Ø9.6,87.13,27.53,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85543,FAGOR,010  3D.N30.14   Ø15,166.57,52.62,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85544,FAGOR,010  3D.N30.14   Ø9.7,87.13,27.53,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85545,FAGOR,010  3D.N30.14   Ø14,157.88,49.87,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85546,FAGOR,"010  3D.N30.14   Ø13,5",154.08,48.67,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85547,FAGOR,010  3D.N30.14   Ø13,146.44,46.26,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85548,FAGOR,010  3D.N30.14   Ø12.0,123.26,38.94,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85549,FAGOR,010  3D.N30.14   Ø11.5,123.1,38.89,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85550,FAGOR,010  3D.N30.14   Ø11.0,107.42,33.93,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85551,FAGOR,010  3D.N30.14   Ø10.5,98.47,31.11,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85552,FAGOR,010  3D.N30.14   Ø10.2,97.06,30.66,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85553,FAGOR,010  3D.N30.14   Ø10.0,83.9,26.50,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85554,FAGOR,010  3D.N30.14   Ø9.9,87.13,27.53,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85555,FAGOR,010  3D.N30.14   Ø7.0,48.73,15.39,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85556,FAGOR,"010  3D.N30.14   Ø15,5",171.92,54.31,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85557,FAGOR,010  3D.N30.14   Ø3.2,19.61,6.20,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85558,FAGOR,010  3D.N30.14   Ø7.2,56.21,17.76,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85559,FAGOR,010  3D.N30.14   Ø4.3,24.61,7.77,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85560,FAGOR,010  3D.N30.14   Ø4.2,23.5,7.42,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85561,FAGOR,"010  3D.N30.14   Ø4,1",23.5,7.42,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85562,FAGOR,010  3D.N30.14   Ø4.0,22.77,7.19,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85563,FAGOR,010  3D.N30.14   Ø3.9,22.77,7.19,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85564,FAGOR,010  3D.N30.14   Ø3.8,22.77,7.19,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85565,FAGOR,010  3D.N30.14   Ø3.7,21.72,6.86,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85566,FAGOR,010  3D.N30.14   Ø3.6,21.72,6.86,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85567,FAGOR,010  3D.N30.14   Ø3.5,20.48,6.47,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85568,FAGOR,010  3D.N30.14   Ø4.5,24.61,7.77,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85569,FAGOR,010  3D.N30.14   Ø3.3,19.61,6.20,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85570,FAGOR,010  3D.N30.14   Ø4.6,24.61,7.77,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85571,FAGOR,010  3D.N30.14   Ø3.1,19.61,6.20,Stockable Product,stock.route_warehouse0_mto,fagor,15
+85572,FAGOR,010  3D.N30.14   Ø3.0,19.42,6.14,Stockable Product,stock.route_warehouse0_mto,fagor,15
+NEUTRO,TIRANTES,Tirante Maquina BT40  PS.JS40SF,19.75,9.21,Stockable Product,stock.route_warehouse0_mto,,
+NEUTRO,TIRANTES,Tirante Maquina BT40  PS.BT40.3,13.5,7.54,Stockable Product,stock.route_warehouse0_mto,,
+NEUTRO,MACHOS,Macho HSS-E  Ref. 20480 M12  15º  Tol. 6G + TICN + Pulido,59.6,33.64,Stockable Product,stock.route_warehouse0_mto,machos,50
+NEUTRO,FABRICACIÓN ESPECIAL,MFR6B1.5L22BMK + Modificacion,38.5,16.74,Stockable Product,stock.route_warehouse0_mto,,
+MST,Cutter Arbor FMH,BT50-FMH22-60-250,752.5,301.00,Stockable Product,stock.route_warehouse0_mto,,
+MST,Cutter Arbor FMH,BT50-FMH22-47-250,752.5,301.00,Stockable Product,stock.route_warehouse0_mto,,
+MST,Cutter Arbor FMH,BT40-FMH16-37-120,371.00,148.40,Stockable Product,stock.route_warehouse0_mto,,
+MST,Cutter Arbor FMH,BT40-FMH16-37-90,322.00,128.80,Stockable Product,stock.route_warehouse0_mto,,
+YG1,DH404 Broca MD 3xD TIALN,010  3D.N30.14   Ø3.4,20.48,6.47,Stockable Product,stock.route_warehouse0_mto,,
+YG1,DH404 Broca MD 3xD TIALN,010  3D.N30.14   Ø5.8,32.4,10.24,Stockable Product,stock.route_warehouse0_mto,,
+YG1,DH423 Broca MD 3xD MR TIALN,"020  3D.N30.14   Ø3,2",32.4,10.24,Stockable Product,stock.route_warehouse0_mto,,
+YG1,DH404 Broca MD 3xD TIALN,010  3D.N30.14   Ø6.9,49.11,15.51,Stockable Product,stock.route_warehouse0_mto,,
+YG1,DH404 Broca MD 3xD TIALN,010  3D.N30.14   Ø6.8,49.11,15.51,Stockable Product,stock.route_warehouse0_mto,,
+YG1,DH404 Broca MD 3xD TIALN,010  3D.N30.14   Ø6.7,48.96,15.47,Stockable Product,stock.route_warehouse0_mto,,
+YG1,DH404 Broca MD 3xD TIALN,010  3D.N30.14   Ø6.6,48.96,15.47,Stockable Product,stock.route_warehouse0_mto,,
+YG1,DH404 Broca MD 3xD TIALN,010  3D.N30.14   Ø6.5,42.77,13.51,Stockable Product,stock.route_warehouse0_mto,,
+YG1,DH404 Broca MD 3xD TIALN,010  3D.N30.14   Ø6.4,38.7,12.23,Stockable Product,stock.route_warehouse0_mto,,
+YG1,DH404 Broca MD 3xD TIALN,010  3D.N30.14   Ø6.3,38.7,12.23,Stockable Product,stock.route_warehouse0_mto,,
+YG1,DH404 Broca MD 3xD TIALN,010  3D.N30.14   Ø6.2,38.7,12.23,Stockable Product,stock.route_warehouse0_mto,,
+YG1,DH404 Broca MD 3xD TIALN,010  3D.N30.14   Ø6.1,38.7,12.23,Stockable Product,stock.route_warehouse0_mto,,
+YG1,DH404 Broca MD 3xD TIALN,010  3D.N30.14   Ø4.4,24.61,7.77,Stockable Product,stock.route_warehouse0_mto,,
+YG1,DH404 Broca MD 3xD TIALN,010  3D.N30.14   Ø5.9,32.4,10.24,Stockable Product,stock.route_warehouse0_mto,,
+YG1,DH404 Broca MD 3xD TIALN,010  3D.N30.14   Ø7.1,56.21,17.76,Stockable Product,stock.route_warehouse0_mto,,
+YG1,DH404 Broca MD 3xD TIALN,010  3D.N30.14   Ø5.7,32.4,10.24,Stockable Product,stock.route_warehouse0_mto,,
+YG1,DH404 Broca MD 3xD TIALN,010  3D.N30.14   Ø5.6,32.4,10.24,Stockable Product,stock.route_warehouse0_mto,,
+YG1,DH404 Broca MD 3xD TIALN,010  3D.N30.14   Ø5.5,30.98,9.79,Stockable Product,stock.route_warehouse0_mto,,
+YG1,DH404 Broca MD 3xD TIALN,010  3D.N30.14   Ø5.4,30.98,9.79,Stockable Product,stock.route_warehouse0_mto,,
+YG1,DH404 Broca MD 3xD TIALN,010  3D.N30.14   Ø5.3,30.98,9.79,Stockable Product,stock.route_warehouse0_mto,,
+YG1,DH404 Broca MD 3xD TIALN,010  3D.N30.14   Ø5.2,30.98,9.79,Stockable Product,stock.route_warehouse0_mto,,
+YG1,DH404 Broca MD 3xD TIALN,010  3D.N30.14   Ø5.1,25.79,8.15,Stockable Product,stock.route_warehouse0_mto,,
+YG1,DH404 Broca MD 3xD TIALN,010  3D.N30.14   Ø5.0,25.79,8.15,Stockable Product,stock.route_warehouse0_mto,,
+YG1,DH404 Broca MD 3xD TIALN,010  3D.N30.14   Ø4.9,25.79,8.15,Stockable Product,stock.route_warehouse0_mto,,
+YG1,DH404 Broca MD 3xD TIALN,010  3D.N30.14   Ø4.8,25.79,8.15,Stockable Product,stock.route_warehouse0_mto,,
+YG1,DH404 Broca MD 3xD TIALN,010  3D.N30.14   Ø4.7,25.79,8.15,Stockable Product,stock.route_warehouse0_mto,,
+YG1,DH404 Broca MD 3xD TIALN,010  3D.N30.14   Ø6.0,32.4,10.24,Stockable Product,stock.route_warehouse0_mto,,
+YG1,DH423 Broca MD 3xD MR TIALN,"020  3D.N30.14   Ø9,5",83.9,26.50,Stockable Product,stock.route_warehouse0_mto,,
+YG1,DH423 Broca MD 3xD MR TIALN,"020  3D.N30.14   Ø10,7",123.26,38.94,Stockable Product,stock.route_warehouse0_mto,,
+YG1,DH423 Broca MD 3xD MR TIALN,"020  3D.N30.14   Ø10,6",123.26,38.94,Stockable Product,stock.route_warehouse0_mto,,
+YG1,DH423 Broca MD 3xD MR TIALN,"020  3D.N30.14   Ø10,5",123.26,38.94,Stockable Product,stock.route_warehouse0_mto,,
+YG1,DH423 Broca MD 3xD MR TIALN,"020  3D.N30.14   Ø10,4",123.26,38.94,Stockable Product,stock.route_warehouse0_mto,,
+YG1,DH423 Broca MD 3xD MR TIALN,"020  3D.N30.14   Ø10,3",123.26,38.94,Stockable Product,stock.route_warehouse0_mto,,
+YG1,DH423 Broca MD 3xD MR TIALN,"020  3D.N30.14   Ø10,2",123.26,38.94,Stockable Product,stock.route_warehouse0_mto,,
+YG1,DH423 Broca MD 3xD MR TIALN,"020  3D.N30.14   Ø10,1",123.26,38.94,Stockable Product,stock.route_warehouse0_mto,,
+YG1,DH423 Broca MD 3xD MR TIALN,020  3D.N30.14   Ø10,83.9,26.50,Stockable Product,stock.route_warehouse0_mto,,
+YG1,DH423 Broca MD 3xD MR TIALN,"020  3D.N30.14   Ø9,9",83.9,26.50,Stockable Product,stock.route_warehouse0_mto,,
+YG1,DH423 Broca MD 3xD MR TIALN,"020  3D.N30.14   Ø9,8",83.9,26.50,Stockable Product,stock.route_warehouse0_mto,,
+YG1,DH423 Broca MD 3xD MR TIALN,020  3D.N30.14   Ø3,32.4,10.24,Stockable Product,stock.route_warehouse0_mto,,
+YG1,DH423 Broca MD 3xD MR TIALN,"020  3D.N30.14   Ø9,6",83.9,26.50,Stockable Product,stock.route_warehouse0_mto,,
+YG1,DH423 Broca MD 3xD MR TIALN,020  3D.N30.14   Ø11,123.26,38.94,Stockable Product,stock.route_warehouse0_mto,,
+YG1,DH423 Broca MD 3xD MR TIALN,"020  3D.N30.14   Ø9,4",83.9,26.50,Stockable Product,stock.route_warehouse0_mto,,
+YG1,DH423 Broca MD 3xD MR TIALN,"020  3D.N30.14   Ø9,3",83.9,26.50,Stockable Product,stock.route_warehouse0_mto,,
+YG1,DH423 Broca MD 3xD MR TIALN,"020  3D.N30.14   Ø9,2",83.9,26.50,Stockable Product,stock.route_warehouse0_mto,,
+YG1,DH423 Broca MD 3xD MR TIALN,"020  3D.N30.14   Ø9,1",83.9,26.50,Stockable Product,stock.route_warehouse0_mto,,

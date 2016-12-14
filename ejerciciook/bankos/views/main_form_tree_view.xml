@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+	<openerp>
+		<data>
+			
+			<record model="ir.ui.view" id="bankos_main_tree_view">
+				<field name="name">bankos tree </field>
+				<field name="model">bankos</field>
+				<field name="arch" type="xml">
+					<tree string="bankos_tree_view">
+						<field name="bank_name"/>
+						<field name="acc_number"/>
+						<field name="bank"/>
+					</tree>
+				</field>
+			</record>
+		</data>
+	</openerp>
+

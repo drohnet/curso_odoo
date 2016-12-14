@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+	<openerp>
+		<data>
+			<record model="ir.actions.act_window" id="bankos_action">
+				<field name="name">Bankos hall</field>
+				<field name="res_model">res.partner.bank</field>
+				<field name="view_type">form</field>
+			</record>
+			<menuitem id="root_main_bankos_link" name="Bankoss"/>
+			<menuitem id="main_bankos" name="Principal" parent="root_main_bankos_link" sequence="10"/>
+			<menuitem id="bankos" name="Bancos" parent="main_bankos" sequence="20" action="bankos_action"/>
+		</data>
+	</openerp>

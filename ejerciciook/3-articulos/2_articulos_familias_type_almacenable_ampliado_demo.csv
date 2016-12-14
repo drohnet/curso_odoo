@@ -1,0 +1,16 @@
+default_code,categ_id,name,list_price,standard_price,type,route_ids/id,seller_ids/name
+1,BROCAS CELESA,Broca HSS-E Ref. BC31  ?17 mm,38.96,0.00,Stockable Product,stock.route_warehouse0_mto,
+2,RECTIFICADO,Hacer mecha ?7.5  Destalonar + TIALSIN + Pulido,37.75,25.50,Stockable Product,stock.route_warehouse0_mto,rectificado
+3,PORTAS  NT,MC20-12,45.24,0.00,Stockable Product,stock.route_warehouse0_mto,
+4,PORTAS  NT,MC20-8,45.24,0.00,Stockable Product,stock.route_warehouse0_mto,
+5,PORTAS  NT,HSK63A-NIK12-120G,319.91,236.97,Stockable Product,stock.route_warehouse0_mto,
+6,PORTAS  NT,Pinza Precision  FDC-10012AA,85.75,55.81,Stockable Product,stock.route_warehouse0_mto,
+7,BROCAS STOCK,Broca HSS-E DIN 338 R-N  Ref. 71116 ?0.7 mm,3.41,1.88,Stockable Product,stock.route_warehouse0_mto,
+8,DJ543 Broca HPD-SUS Corta,Broca 570701400  ?14.00,57.78,23.06,Stockable Product,stock.route_warehouse0_mto,
+9,Escariador  Centesimal   MD 8600,Escariador  MD  8600  ?5.02 mm,59.25,27.06,Stockable Product,stock.route_warehouse0_mto,
+10,AVELLANADOR,Avellanador  HSS-E  90? Ref. AV38  ?25   +  TICN,127.58,67.54,Stockable Product,stock.route_warehouse0_mto,
+11,CONTRAPUNTOS,Contrapunto Acero ?23 S/Plano 911888A,99.85,67.00,Stockable Product,stock.route_warehouse0_mto,
+12,RECTIFICADO,Rectificar Mango Completo X-WHEX 100100 a  ?9.8 mm,34.00,0.00,Stockable Product,stock.route_warehouse0_mto,
+13,ESCARIADOR,Escariador HSS-E M.Conico Ref. EM7  ?22.50 mm,108.3,48.74,Stockable Product,stock.route_warehouse0_mto,
+85159,FAGOR,BIF 01 N / Base de Toma TV/R Final de cascadaDerivacion 3 dB,,2.17,Stockable Product,stock.route_warehouse0_mto,fagor
+1,BROCAS CELESA,Broca HSS-E Ref. BC31  ?17 mm,38.96,0.00,Stockable Product,stock.route_warehouse0_mto,

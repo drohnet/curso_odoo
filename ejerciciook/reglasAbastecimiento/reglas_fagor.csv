@@ -1,0 +1,415 @@
+product_id,name,product_min_qty,product_max_qty
+010  3D.N30.14   Ø10.0,fa0000,15,15
+010  3D.N30.14   Ø10.2,fa0001,15,15
+010  3D.N30.14   Ø10.5,fa0002,15,15
+010  3D.N30.14   Ø11.0,fa0003,15,15
+010  3D.N30.14   Ø11.5,fa0004,15,15
+010  3D.N30.14   Ø12.0,fa0005,15,15
+010  3D.N30.14   Ø13,fa0006,15,15
+"010  3D.N30.14   Ø13,5",fa0007,15,15
+010  3D.N30.14   Ø14,fa0008,15,15
+"010  3D.N30.14   Ø14,5",fa0009,15,15
+010  3D.N30.14   Ø15,fa0010,15,15
+"010  3D.N30.14   Ø15,5",fa0011,15,15
+010  3D.N30.14   Ø16,fa0012,15,15
+"010  3D.N30.14   Ø16,5",fa0013,15,15
+010  3D.N30.14   Ø17,fa0014,15,15
+"010  3D.N30.14   Ø17,5",fa0015,15,15
+010  3D.N30.14   Ø18,fa0016,15,15
+"010  3D.N30.14   Ø18,5",fa0017,15,15
+010  3D.N30.14   Ø19,fa0018,15,15
+"010  3D.N30.14   Ø19,5",fa0019,15,15
+010  3D.N30.14   Ø20,fa0020,15,15
+010  3D.N30.14   Ø3.0,fa0021,15,15
+010  3D.N30.14   Ø3.1,fa0022,15,15
+010  3D.N30.14   Ø3.2,fa0023,15,15
+010  3D.N30.14   Ø3.3,fa0024,15,15
+010  3D.N30.14   Ø3.5,fa0025,15,15
+010  3D.N30.14   Ø3.6,fa0026,15,15
+010  3D.N30.14   Ø3.7,fa0027,15,15
+010  3D.N30.14   Ø3.8,fa0028,15,15
+010  3D.N30.14   Ø3.9,fa0029,15,15
+010  3D.N30.14   Ø4.0,fa0030,15,15
+"010  3D.N30.14   Ø4,1",fa0031,15,15
+010  3D.N30.14   Ø4.2,fa0032,15,15
+010  3D.N30.14   Ø4.3,fa0033,15,15
+010  3D.N30.14   Ø4.5,fa0034,15,15
+010  3D.N30.14   Ø4.6,fa0035,15,15
+010  3D.N30.14   Ø7.0,fa0036,15,15
+010  3D.N30.14   Ø7.2,fa0037,15,15
+010  3D.N30.14   Ø7.3,fa0038,15,15
+010  3D.N30.14   Ø7.4,fa0039,15,15
+010  3D.N30.14   Ø7.5,fa0040,15,15
+010  3D.N30.14   Ø7.6,fa0041,15,15
+010  3D.N30.14   Ø7.7,fa0042,15,15
+010  3D.N30.14   Ø7.8,fa0043,15,15
+010  3D.N30.14   Ø7.9,fa0044,15,15
+010  3D.N30.14   Ø8.0,fa0045,15,15
+010  3D.N30.14   Ø8.1,fa0046,15,15
+010  3D.N30.14   Ø8.2,fa0047,15,15
+010  3D.N30.14   Ø8.3,fa0048,15,15
+010  3D.N30.14   Ø8.4,fa0049,15,15
+010  3D.N30.14   Ø8.5,fa0050,15,15
+010  3D.N30.14   Ø8.6,fa0051,15,15
+010  3D.N30.14   Ø8.7,fa0052,15,15
+010  3D.N30.14   Ø8.8,fa0053,15,15
+010  3D.N30.14   Ø8.9,fa0054,15,15
+010  3D.N30.14   Ø9.0,fa0055,15,15
+010  3D.N30.14   Ø9.1,fa0056,15,15
+010  3D.N30.14   Ø9.2,fa0057,15,15
+010  3D.N30.14   Ø9.3,fa0058,15,15
+010  3D.N30.14   Ø9.4,fa0059,15,15
+010  3D.N30.14   Ø9.5,fa0060,15,15
+010  3D.N30.14   Ø9.6,fa0061,15,15
+010  3D.N30.14   Ø9.7,fa0062,15,15
+010  3D.N30.14   Ø9.8,fa0063,15,15
+010  3D.N30.14   Ø9.9,fa0064,15,15
+020  3D.N30.14   Ø16,fa0065,15,15
+"020  3D.N30.14   Ø16,8",fa0066,15,15
+020  3D.N30.14   Ø17,fa0067,15,15
+"020  3D.N30.14   Ø17,5",fa0068,15,15
+"020  3D.N30.14   Ø17,8",fa0069,15,15
+020  3D.N30.14   Ø18,fa0070,15,15
+"020  3D.N30.14   Ø18,5",fa0071,15,15
+020  3D.N30.14   Ø19,fa0072,15,15
+"020  3D.N30.14   Ø19,5",fa0073,15,15
+"020  3D.N30.14   Ø19,8",fa0074,15,15
+020  3D.N30.14   Ø20,fa0075,15,15
+"020  3D.N30.14   Ø3,1",fa0076,15,15
+020  3D.N30.T14   Ø3,fa0077,15,15
+"020  3D.N30.T14   Ø3,1",fa0078,15,15
+"020  3D.N30.T14   Ø3,2",fa0079,15,15
+"020  3D.N30.T14   Ø3,3",fa0080,15,15
+"020  3D.N30.T14   Ø3,4",fa0081,15,15
+"020  3D.N30.T14   Ø3,5",fa0082,15,15
+"020  3D.N30.T14   Ø3,6",fa0083,15,15
+"020  3D.N30.T14   Ø3,7",fa0084,15,15
+"020  3D.N30.T14   Ø3,8",fa0085,15,15
+"020  3D.N30.T14   Ø3,9",fa0086,15,15
+020  3D.N30.T14   Ø4,fa0087,15,15
+"020  3D.N30.T14   Ø4,1",fa0088,15,15
+"020  3D.N30.T14   Ø4,2",fa0089,15,15
+"020  3D.N30.T14   Ø4,3",fa0090,15,15
+"020  3D.N30.T14   Ø4,4",fa0091,15,15
+"020  3D.N30.T14   Ø4,5",fa0092,15,15
+"020  3D.N30.T14   Ø4,6",fa0093,15,15
+"020  3D.N30.T14   Ø4,7",fa0094,15,15
+"020  3D.N30.T14   Ø4,8",fa0095,15,15
+"020  3D.N30.T14   Ø4,9",fa0096,15,15
+020  3D.N30.T14   Ø5,fa0097,15,15
+"020  3D.N30.T14   Ø5,1",fa0098,15,15
+"020  3D.N30.T14   Ø5,2",fa0099,15,15
+"020  3D.N30.T14   Ø5,3",fa0100,15,15
+"020  3D.N30.T14   Ø5,4",fa0101,15,15
+"020  3D.N30.T14   Ø5,5",fa0102,15,15
+"020  3D.N30.T14   Ø5,6",fa0103,15,15
+"020  3D.N30.T14   Ø5,7",fa0104,15,15
+"020  3D.N30.T14   Ø5,8",fa0105,15,15
+"020  3D.N30.T14   Ø5,9",fa0106,15,15
+020  3D.N30.T14   Ø6,fa0107,15,15
+"020  3D.N30.T14   Ø6,1",fa0108,15,15
+"020  3D.N30.T14   Ø6,2",fa0109,15,15
+"020  3D.N30.T14   Ø6,3",fa0110,15,15
+"020  3D.N30.T14   Ø6,4",fa0111,15,15
+"020  3D.N30.T14   Ø6,5",fa0112,15,15
+"020  3D.N30.T14   Ø6,6",fa0113,15,15
+"020  3D.N30.T14   Ø6,7",fa0114,15,15
+"020  3D.N30.T14   Ø6,8",fa0115,15,15
+"020  3D.N30.T14   Ø6,9",fa0116,15,15
+020  3D.N30.T14   Ø7,fa0117,15,15
+"020  3D.N30.T14   Ø7,1",fa0118,15,15
+"020  3D.N30.T14   Ø7,2",fa0119,15,15
+"020  3D.N30.T14   Ø7,3",fa0120,15,15
+"020  3D.N30.T14   Ø7,4",fa0121,15,15
+"020  3D.N30.T14   Ø7,5",fa0122,15,15
+"020  3D.N30.T14   Ø7,6",fa0123,15,15
+"020  3D.N30.T14   Ø7,7",fa0124,15,15
+"020  3D.N30.T14   Ø7,8",fa0125,15,15
+"020  3D.N30.T14   Ø7,9",fa0126,15,15
+020  3D.N30.T14   Ø8,fa0127,15,15
+"020  3D.N30.T14   Ø8,1",fa0128,15,15
+"020  3D.N30.T14   Ø8,2",fa0129,15,15
+"020  3D.N30.T14   Ø8,3",fa0130,15,15
+022  5D.N30.14   Ø10,fa0131,15,15
+"022  5D.N30.14   Ø10,1",fa0132,15,15
+"022  5D.N30.14   Ø10,2",fa0133,15,15
+"022  5D.N30.14   Ø10,3",fa0134,15,15
+"022  5D.N30.14   Ø10,4",fa0135,15,15
+"022  5D.N30.14   Ø10,5",fa0136,15,15
+"022  5D.N30.14   Ø10,6",fa0137,15,15
+"022  5D.N30.14   Ø10,7",fa0138,15,15
+"022  5D.N30.14   Ø10,9",fa0139,15,15
+022  5D.N30.14   Ø11,fa0140,15,15
+"022  5D.N30.14   Ø11,1",fa0141,15,15
+"022  5D.N30.14   Ø11,2",fa0142,15,15
+"022  5D.N30.14   Ø11,3",fa0143,15,15
+"022  5D.N30.14   Ø11,4",fa0144,15,15
+"022  5D.N30.14   Ø11,5",fa0145,15,15
+"022  5D.N30.14   Ø11,6",fa0146,15,15
+"022  5D.N30.14   Ø11,7",fa0147,15,15
+"022  5D.N30.14   Ø11,8",fa0148,15,15
+"022  5D.N30.14   Ø11,9",fa0149,15,15
+022  5D.N30.14   Ø12,fa0150,15,15
+"022  5D.N30.14   Ø12,3",fa0151,15,15
+"022  5D.N30.14   Ø12,8",fa0152,15,15
+"022  5D.N30.14   Ø13,5",fa0153,15,15
+"022  5D.N30.14   Ø13,8",fa0154,15,15
+022  5D.N30.14   Ø14,fa0155,15,15
+"022  5D.N30.14   Ø14,5",fa0156,15,15
+"022  5D.N30.14   Ø14,8",fa0157,15,15
+022  5D.N30.14   Ø15,fa0158,15,15
+"022  5D.N30.14   Ø15,5",fa0159,15,15
+"022  5D.N30.14   Ø15,8",fa0160,15,15
+022  5D.N30.14   Ø16,fa0161,15,15
+"022  5D.N30.14   Ø16,5",fa0162,15,15
+"022  5D.N30.14   Ø16,8",fa0163,15,15
+022  5D.N30.14   Ø17,fa0164,15,15
+"022  5D.N30.14   Ø17,5",fa0165,15,15
+"022  5D.N30.14   Ø17,8",fa0166,15,15
+022  5D.N30.14   Ø18,fa0167,15,15
+"022  5D.N30.14   Ø18,5",fa0168,15,15
+022  5D.N30.14   Ø19,fa0169,15,15
+"022  5D.N30.14   Ø19,5",fa0170,15,15
+"022  5D.N30.14   Ø19,8",fa0171,15,15
+022  5D.N30.14   Ø20,fa0172,15,15
+022  5D.N30.14   Ø3,fa0173,15,15
+"022  5D.N30.14   Ø3,1",fa0174,15,15
+"022  5D.N30.14   Ø3,2",fa0175,15,15
+"022  5D.N30.14   Ø3,3",fa0176,15,15
+"022  5D.N30.14   Ø3,4",fa0177,15,15
+"022  5D.N30.14   Ø3,5",fa0178,15,15
+"022  5D.N30.14   Ø3,6",fa0179,15,15
+"022  5D.N30.14   Ø3,7",fa0180,15,15
+"022  5D.N30.14   Ø3,8",fa0181,15,15
+"022  5D.N30.14   Ø3,9",fa0182,15,15
+022  5D.N30.14   Ø4,fa0183,15,15
+"022  5D.N30.14   Ø4,1",fa0184,15,15
+"022  5D.N30.14   Ø4,2",fa0185,15,15
+"022  5D.N30.14   Ø4,3",fa0186,15,15
+"022  5D.N30.14   Ø4,4",fa0187,15,15
+"022  5D.N30.14   Ø4,5",fa0188,15,15
+"022  5D.N30.14   Ø4,6",fa0189,15,15
+"022  5D.N30.14   Ø4,7",fa0190,15,15
+"022  5D.N30.14   Ø4,8",fa0191,15,15
+"022  5D.N30.14   Ø4,9",fa0192,15,15
+022  5D.N30.14   Ø5,fa0193,15,15
+"022  5D.N30.14   Ø5,1",fa0194,15,15
+"022  5D.N30.14   Ø5,2",fa0195,15,15
+"022  5D.N30.14   Ø5,3",fa0196,15,15
+"022  5D.N30.14   Ø5,4",fa0197,15,15
+"022  5D.N30.14   Ø5,5",fa0198,15,15
+"022  5D.N30.14   Ø5,6",fa0199,15,15
+"022  5D.N30.14   Ø5,7",fa0200,15,15
+"022  5D.N30.14   Ø5,8",fa0201,15,15
+"022  5D.N30.14   Ø5,9",fa0202,15,15
+022  5D.N30.14   Ø6,fa0203,15,15
+"022  5D.N30.14   Ø6,1",fa0204,15,15
+"022  5D.N30.14   Ø6,2",fa0205,15,15
+"022  5D.N30.14   Ø6,3",fa0206,15,15
+"022  5D.N30.14   Ø6,4",fa0207,15,15
+"022  5D.N30.14   Ø6,5",fa0208,15,15
+"022  5D.N30.14   Ø6,6",fa0209,15,15
+"022  5D.N30.14   Ø6,7",fa0210,15,15
+"022  5D.N30.14   Ø6,8",fa0211,15,15
+"022  5D.N30.14   Ø6,9",fa0212,15,15
+022  5D.N30.14   Ø7,fa0213,15,15
+"022  5D.N30.14   Ø7,2",fa0214,15,15
+"022  5D.N30.14   Ø9,5",fa0215,15,15
+"022  5D.N30.14   Ø9,6",fa0216,15,15
+"022  5D.N30.14   Ø9,8",fa0217,15,15
+"022  5D.N30.14   Ø9,9",fa0218,15,15
+ACM 800 / Modulador ASI ? QAM,fa0219,15,15
+BID 01 N / Base de Toma TV/R Individual,fa0220,15,15
+BID 10 N / Base de Toma TV/R Final de cascada,fa0221,15,15
+BIF 01 N / Base de Toma TV/R Final de cascadaDerivacion 3 dB,fa0222,15,15
+"BIF 01 S / Base de Toma TV/R IndividualDerivacion 0,5 dB",fa0223,15,15
+BIF 05 N / Base de Toma TV/R IntermediaDerivacion 7 dB,fa0224,15,15
+BIF 09 N / Base de Toma TV/R IntermediaDerivacion 11 dB,fa0225,15,15
+BIF 14 N / Base de Toma TV/R IntermediaDerivacion 15 dB,fa0226,15,15
+"BRF 00 N / Base de Toma puenteada.Derivacion 1,5 dB",fa0227,15,15
+Broca especial  HSS-E  Ø,fa0228,15,15
+Broca especial  HSS-E-PM  Ø,fa0229,15,15
+Broca especial  MD  Ø,fa0230,15,15
+Broca  HSS-E  Ø,fa0231,15,15
+Broca  HSS-E-PM  Ø,fa0232,15,15
+Broca  MD  Ø,fa0233,15,15
+"BSD 201 S / Base de toma TV, R / SAT. Individual    Derivacion -1 dB",fa0234,15,15
+"BSD 201 S DC / Base de toma TV, R / SAT. Individual. Con paso de corriente.                Derivacion -1 dB",fa0235,15,15
+"BSD 201 S LTE / Base de toma TV, R / SAT. Individual                  ",fa0236,15,15
+"BSD 203 DC / Base de toma TV, R / SAT. Final.   Con paso de corriente Derivacion -3 dB",fa0237,15,15
+"BSD 203 N / Base de toma TV, R / SAT. Final    Derivacion -3 dB",fa0238,15,15
+"BSD 210 DC / Base de toma TV, R / SAT. Intermedia. Con paso de corriente.    Derivacion -12 dB",fa0239,15,15
+"BSD 210 N / Base de toma TV, R / SAT. Intermedia        Derivacion -12 dB",fa0240,15,15
+"BSD 215 N / Base de toma TV, R / SAT. Intermedia         Derivacion -16 dB",fa0241,15,15
+"BSD 220 N / Base de toma TV, R / SAT. Intermedia         Derivacion -20 dB",fa0242,15,15
+"BSD 301 / Base de toma final, 3 salidas (TV/FM/SAT)",fa0243,15,15
+"BSD 310 / Base de toma intermedial, 3 salidas (TV/FM/SAT)",fa0244,15,15
+"BSD 403 DC / Base de toma 2 salidas iguales (TV, R + SAT) Final          Paso de corriente IN-OUT y SAT       ",fa0245,15,15
+"BSD 411 DC / Base de toma 2 salidas iguales (TV, R + SAT)                     Paso de corriente IN-OUT y SAT       ",fa0246,15,15
+"BSD 416 DC / Base de toma 2 salidas iguales (TV, R + SAT)                     Paso de corriente IN-OUT y SAT       ",fa0247,15,15
+"BSD 420 DC / Base de toma 2 salidas iguales (TV, R + SAT)                     Paso de corriente IN-OUT y SAT       ",fa0248,15,15
+"BSD 425 DC / Base de toma 2 salidas iguales (TV, R + SAT)                     Paso de corriente IN-OUT y SAT       ",fa0249,15,15
+"CIF 6000 + A/D / Conversor de canal por FI analogico y digital DVB T, entrada BI÷BV   E02 - E69",fa0250,15,15
+"CIF 7000 + A/D / Conversor de canal por FI analogico y digital DVB T,  entrada BI÷BV   E02 - E69",fa0251,15,15
+CN-FT,fa0252,15,15
+DEN 8000 / Encoder digital 4 IN A/V ? MPEG 2 (ASI),fa0253,15,15
+DER 214 C / Derivador 5-1000 MHz 2 salidas DC Block,fa0254,15,15
+DER 217 C / Derivador 5-1000 MHz 2 salidas DC Block,fa0255,15,15
+DER 223 C / Derivador 5-1000 MHz 2 salidas DC Block,fa0256,15,15
+DER 226 C / Derivador 5-1000 MHz 2 salidas DC Block,fa0257,15,15
+DER 414 C / Derivador 5-1000 MHz 4 salidas DC Block,fa0258,15,15
+DER 417 C / Derivador 5-1000 MHz 4 salidas DC Block,fa0259,15,15
+DER 423 C / Derivador 5-1000 MHz 4 salidas DC Block,fa0260,15,15
+DER 426 C / Derivador 5-1000 MHz 4 salidas DC Block,fa0261,15,15
+DES 107 S / Derivador 1ª FI SAT 1 salidas,fa0262,15,15
+DES 111 S / Derivador 1ª FI SAT 1 salidas,fa0263,15,15
+DES 116 S / Derivador 1ª FI SAT 1salidas,fa0264,15,15
+DES 120 S / Derivador 1ª FI SAT 1 salidas,fa0265,15,15
+DES 211 S / Derivador 1ª FI SAT 2 salidas,fa0266,15,15
+DES 216 S / Derivador 1ª FI SAT 2 salidas,fa0267,15,15
+DES 220 S / Derivador 1ª FI SAT 2 salidas,fa0268,15,15
+DES 225 + / Derivador 1ª FI SAT 2 salidas,fa0269,15,15
+DES 411 + / Derivador 1ª FI SAT 4 salidas Derivacion -11 dB,fa0270,15,15
+DES 416 + / Derivador 1ª FI SAT 4 salidas Derivacion -16 dB,fa0271,15,15
+DES 420 + / Derivador 1ª FI SAT 4 salidas Derivacion -20 dB,fa0272,15,15
+DES 425 + / Derivador 1ª FI SAT 4 salidas Derivacion -25 dB,fa0273,15,15
+DIS 204 S / Distribuidor 1ª FI SAT 2 salidas.  ,fa0274,15,15
+DIS 307 S / Distribuidor 1ª FI SAT 3 salidas.  ,fa0275,15,15
+"DIS 409 + / Distribuidor 1ª FI SAT 4 salidas. Insercion -8,5 dB",fa0276,15,15
+"DIS 513 + / Distribuidor 1ª FI SAT 5 salidas (3 salidas a -9dB y 2 a -12,5dB). ",fa0277,15,15
+DMT 8000 / Modulador digital ASI ? COFDM,fa0278,15,15
+DN40A-HFD12-135-S85,fa0279,15,15
+"DXR 216 +  / Diplexor - Mezclador  1ª FI SAT / RFRF -1,7dB; SAT -2dB",fa0280,15,15
+"DXR 2D + / Distribuidor Combinador para cabecera ICT, 3 entradas-2 salidas RF -5,5 dB; SAT -1,5 dB",fa0281,15,15
+FTP 1717 / Derivador blindado 17 IN / 17 OUT ,fa0282,15,15
+FTP 1734 / Derivador blindado 17 IN / 34 OUT ,fa0283,15,15
+FTP 505 / Derivador blindado 5 IN / 5 OUT ,fa0284,15,15
+FTP 510 / Derivador blindado 5 IN / 10 OUT ,fa0285,15,15
+FTP 909 / Derivador blindado 9 IN / 9 OUT ,fa0286,15,15
+FTP 918 / Derivador blindado 9 IN / 18 OUT ,fa0287,15,15
+HAN 8000 / Transmodulador DVB-T a DVB-C - Free-to-air,fa0288,15,15
+IFL 6000  / Conversor 1ª FI SAT - 1ª FI SAT. Dos transpondedores con CAG,fa0289,15,15
+IFL 6000 T  / Conversor 1ª FI SAT - 1ª FI SAT. Terminal. Dos transpondedores con CAG y entradas independientes .,fa0290,15,15
+IFL 7000  / Conversor 1ª FI SAT - 1ª FI SAT. Dos transpondedores con CAG,fa0291,15,15
+IFL 7000 T  / Conversor 1ª FI SAT - 1ª FI SAT. Terminal. Dos transpondedores con CAG y entradas independientes .,fa0292,15,15
+MD Ø0.075x1.2 mm,fa0293,15,15
+"NEX 645 CH 21 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",fa0294,15,15
+"NEX 645 CH 22 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",fa0295,15,15
+"NEX 645 CH 23 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",fa0296,15,15
+"NEX 645 CH 24 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",fa0297,15,15
+"NEX 645 CH 25 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",fa0298,15,15
+"NEX 645 CH 26 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",fa0299,15,15
+"NEX 645 CH 27 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",fa0300,15,15
+"NEX 645 CH 28 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",fa0301,15,15
+"NEX 645 CH 29 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",fa0302,15,15
+"NEX 645 CH 30 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",fa0303,15,15
+"NEX 645 CH 31 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",fa0304,15,15
+"NEX 645 CH 32 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",fa0305,15,15
+"NEX 645 CH 33 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",fa0306,15,15
+"NEX 645 CH 34 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",fa0307,15,15
+"NEX 645 CH 35 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",fa0308,15,15
+"NEX 645 CH 36 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",fa0309,15,15
+"NEX 645 CH 37 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",fa0310,15,15
+"NEX 645 CH 38 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",fa0311,15,15
+"NEX 645 CH 39 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",fa0312,15,15
+"NEX 645 CH 40 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",fa0313,15,15
+"NEX 645 CH 41 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",fa0314,15,15
+"NEX 645 CH 42 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",fa0315,15,15
+"NEX 645 CH 43 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",fa0316,15,15
+"NEX 645 CH 44 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",fa0317,15,15
+"NEX 645 CH 45 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",fa0318,15,15
+"NEX 645 CH 46 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",fa0319,15,15
+"NEX 645 CH 47 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",fa0320,15,15
+"NEX 645 CH 48 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",fa0321,15,15
+"NEX 645 CH 49 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",fa0322,15,15
+"NEX 645 CH 50 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",fa0323,15,15
+"NEX 645 CH 51 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",fa0324,15,15
+"NEX 645 CH 52 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",fa0325,15,15
+"NEX 645 CH 53 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",fa0326,15,15
+"NEX 645 CH 54 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",fa0327,15,15
+"NEX 645 CH 55 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",fa0328,15,15
+"NEX 645 CH 56 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",fa0329,15,15
+"NEX 645 CH 57 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",fa0330,15,15
+"NEX 645 CH 58 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",fa0331,15,15
+"NEX 645 CH 59 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",fa0332,15,15
+"NEX 645 CH 60 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",fa0333,15,15
+"NEX 645 CH 61 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",fa0334,15,15
+"NEX 645 CH 62 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",fa0335,15,15
+"NEX 645 CH 63 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",fa0336,15,15
+"NEX 645 CH 64 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",fa0337,15,15
+"NEX 645 CH 65 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",fa0338,15,15
+"NEX 645 CH 66 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",fa0339,15,15
+"NEX 645 CH 67 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",fa0340,15,15
+"NEX 645 CH 68 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",fa0341,15,15
+"PAU 204 + / PAU - Distribuidor Puente y Brida 2 Entradas: una con 75 Ohm. 2 Salidas.Insercion - 4,5 dB",fa0342,15,15
+PAU 22 F / PAU - Distribuidor Conector F 2 Entradas,fa0343,15,15
+"PAU 22 + / PAU Puente y Brida 2 Entradas - 2 Salidas Insercion - 0,5 dB",fa0344,15,15
+"PAU 23 F / PAU - Distribuidor Conector F 2 Entradas: una con 75 Ohm. 3 Salidas.Insercion - 8,2 dB",fa0345,15,15
+"PAU 24 F / PAU - Distribuidor Conector F 2 Entradas: una con 75 Ohm. 4 Salidas.Insercion - 9,5 dB",fa0346,15,15
+"PAU 25 F / PAU - Distribuidor Conector F 2 Entradas: una con 75 Ohm. 5 Salidas.Insercion - 14,7 dB",fa0347,15,15
+"PAU 26 F / PAU - Distribuidor Conector F 2 Entradas: una con 75 Ohm. 6 Salidas.Insercion - 14,9 dB",fa0348,15,15
+PAU 28 F / PAU - Distribuidor Conector F 2 Entradas: una con 75 Ohm. 8 Salidas.Insercion - 16 dB,fa0349,15,15
+"PAU 409 + / PAU - Distribuidor Puente y Brida 2 Entradas: una con 75 Ohm. 4 Salidas.Insercion - 8,5 dB",fa0350,15,15
+Reafilado Broca  MD  Ø3.5 + TIALN,fa0351,15,15
+Reafilado Broca  MD  Ø3 + TIALN,fa0352,15,15
+Reafilado Broca  MD  Ø4.5 + TIALN,fa0353,15,15
+Reafilado Broca  MD  Ø4 + TIALN,fa0354,15,15
+Reafilado Broca  MD  Ø5 + TIALN,fa0355,15,15
+Recubrimiento  HARD MAX,fa0356,15,15
+Recubrimiento  NCr,fa0357,15,15
+Recubrimiento  TIALN,fa0358,15,15
+Recubrimiento  TIN,fa0359,15,15
+REP 204C / Distribuidor 5-1000 MHz 2 salidas DC Block,fa0360,15,15
+REP 204 / Distribuidor 1ª FI SAT 2 salidas paso corriente,fa0361,15,15
+REP 307 / Distribuidor 1ª FI SAT 3 salidas paso corriente,fa0362,15,15
+REP 408 C / Distribuidor 5-1000 MHz 4 salidas DC Block,fa0363,15,15
+REP 409 / Distribuidor 1ª FI SAT 4 salidas paso corriente,fa0364,15,15
+REP 612 C / Distribuidor 5-1000 MHz 6 salidas DC Block,fa0365,15,15
+REP 613 / Distribuidor 1ª FI SAT 6 salidas paso corriente,fa0366,15,15
+REP 815 / Distribuidor 1ª FI SAT 8 salidas paso corriente,fa0367,15,15
+SCT 8000 / Transmodulador DVB-S/S2 a DVB-C - Free-to-air,fa0368,15,15
+SCT-CI 8000 / Transmodulador DVB-S/S2 a DVB-C Common Interface,fa0369,15,15
+SCT-CI  TWIN 8000 / Transmodulador Doble Entrada/Doble Salida DVB-S/S2 a DVB-C- COMMON INTERFACE,fa0370,15,15
+SCT TWIN 8000 / Transmodulador Doble Entrada/Doble Salida DVB-S/S2 a DVB-C FREE TO AIR,fa0371,15,15
+SDM 6000 + / Demodulador - Modulador QPSK/AM PAL Canales libres E2 - E69,fa0372,15,15
+SDM 6000 + ST / Demodulador - Modulador QPSK/AM Canales libres. EstereoE2 - E69,fa0373,15,15
+SDM 7000 + / Demodulador - Modulador QPSK/AM PAL Canales libres E2 - E69,fa0374,15,15
+SDM 7000 + ST / Demodulador - Modulador QPSK/AM Canales libres. Estereo E2 - E69,fa0375,15,15
+SDR 8000 / Transmodulador DVB-T a DVB-C Common Interface,fa0376,15,15
+SM 6000 +  / Modulador Audio - Video BLVE2 - E69,fa0377,15,15
+"SM 6000 ST +  / Modulador ESTEREO-DUAL, Audio - Video BLV E2 - E69",fa0378,15,15
+SM 7000 +  / Modulador Audio - Video BLV E2 - E69,fa0379,15,15
+SM 7000 ST+  / Modulador ESTEREO - DUAL  Audio-Video BLV E2 - E69,fa0380,15,15
+SM 8000 / Modulador Audio-Video / BLV E2-E69,fa0381,15,15
+"SM-ST 8000 / Modulador ESTEREO-DUAL, Audio-Video/BLV  E2-E69",fa0382,15,15
+SM-TWIN 8000 / Modulador Audio-Video Doble / BLV E2-E69,fa0383,15,15
+"SM-TWIN-ST 8000 / Modulador ESTEREO-DUAL Doble, Audio-Video/BLV  E2-E69",fa0384,15,15
+SM-TWIN-W 8000 / Modulador Audio-Video Doble / BLV E2-E69,fa0385,15,15
+STT 8000 / Transmodulador QPSK/COFDM,fa0386,15,15
+STT-CI 8000 / Transmodulador QPSK/COFDM Common Interface,fa0387,15,15
+STT -CI TWIN 8000 / Transmodulador Doble Entrada/Doble Salida DVB-S/S2 a DVB-T - COMMON INTERFACE,fa0388,15,15
+STT TWIN 8000 / Transmodulador Doble Entrada/Doble Salida DVB-S/S2 a DVB-T FREE TO AIR,fa0389,15,15
+TAP 110 / Derivador 1ª FI SAT 1 salida,fa0390,15,15
+TAP 210 / Derivador 1ª FI SAT 2 salidas Derivacion 10 dB,fa0391,15,15
+TAP 212 / Derivador 1ª FI SAT 2 salidas Derivacion 12 dB,fa0392,15,15
+TAP 215 / Derivador 1ª FI SAT 2 salidas Derivacion 15 dB,fa0393,15,15
+TAP 220 / Derivador 1ª FI SAT 2 salidas Derivacion 20 dB,fa0394,15,15
+TAP 225 / Derivador 1ª FI SAT 2 salidas Derivacion 25 dB,fa0395,15,15
+TAP 412 / Derivador 1ª FI SAT 4 salidas Derivacion 12 dB,fa0396,15,15
+TAP 415 / Derivador 1ª FI SAT 4 salidas Derivacion 15  dB,fa0397,15,15
+TAP 420 / Derivador 1ª FI SAT 4 salidas Derivacion 20 dB,fa0398,15,15
+TAP 425 / Derivador 1ª FI SAT 4 salidas Derivacion 25 dB,fa0399,15,15
+TAP 615 / Derivador 1ª FI SAT 6 salidas Derivacion 15 dB,fa0400,15,15
+TAP 620 / Derivador 1ª FI SAT 6 salidas Derivacion 20 dB,fa0401,15,15
+TAP 625 / Derivador 1ª FI SAT 6 salidas Derivacion 25 dB,fa0402,15,15
+TAP 815 / Derivador 1ª FI SAT 8 salidas Derivacion 15 dB,fa0403,15,15
+TAP 820 / Derivador 1ª FI SAT 8 salidas Derivacion 20 dB,fa0404,15,15
+TAP 825 / Derivador 1ª FI SAT 8 salidas Derivacion 25 dB,fa0405,15,15
+TCT 8000 / Transmodulador DVB-T a DVB-C - Free-to-air,fa0406,15,15
+TCT-CI 8000 / Transmodulador DVB-T a DVB-C Common Interface,fa0407,15,15
+TDM 6000   / Demodulador - Modulador Digital Terrestre CODFM/PAL. Canales libres E2 - E69,fa0408,15,15
+TDM 6000 ST / Demodulador - Modulador Digital Terrestre CODFM/PAL. Canales libres. Estereo.E2 - E69,fa0409,15,15
+TDM 7000  / Demodulador - Modulador Digital Terrestre CODFM / PAL. Canales libres E2 - E69,fa0410,15,15
+TDM 7000 ST / Demodulador - Modulador Digital Terrestre CODFM / PAL. Canales libres. Estereo.E2 - E69,fa0411,15,15
+TTT 8000 / Transmodulador DVB-T a DVB-T- Free-to-air,fa0412,15,15
+TTT-CI 8000 / Transmodulador DVB-T a DVB-T Common Interface,fa0413,15,15

@@ -1,0 +1,484 @@
+id,categ_id/id,name,route_ids/id
+__export__.product_template_1371,__export__.product_category_28,010  3D.N30.14   Ø10.0,stock.route_warehouse0_mto
+__export__.product_template_1370,__export__.product_category_28,010  3D.N30.14   Ø10.2,stock.route_warehouse0_mto
+__export__.product_template_1369,__export__.product_category_28,010  3D.N30.14   Ø10.5,stock.route_warehouse0_mto
+__export__.product_template_1368,__export__.product_category_28,010  3D.N30.14   Ø11.0,stock.route_warehouse0_mto
+__export__.product_template_1367,__export__.product_category_28,010  3D.N30.14   Ø11.5,stock.route_warehouse0_mto
+__export__.product_template_1366,__export__.product_category_28,010  3D.N30.14   Ø12.0,stock.route_warehouse0_mto
+__export__.product_template_1365,__export__.product_category_28,010  3D.N30.14   Ø13,stock.route_warehouse0_mto
+__export__.product_template_1364,__export__.product_category_28,"010  3D.N30.14   Ø13,5",stock.route_warehouse0_mto
+__export__.product_template_1363,__export__.product_category_28,010  3D.N30.14   Ø14,stock.route_warehouse0_mto
+__export__.product_template_1349,__export__.product_category_28,"010  3D.N30.14   Ø14,5",stock.route_warehouse0_mto
+__export__.product_template_1361,__export__.product_category_28,010  3D.N30.14   Ø15,stock.route_warehouse0_mto
+__export__.product_template_1374,__export__.product_category_28,"010  3D.N30.14   Ø15,5",stock.route_warehouse0_mto
+__export__.product_template_1359,__export__.product_category_28,010  3D.N30.14   Ø16,stock.route_warehouse0_mto
+__export__.product_template_1358,__export__.product_category_28,"010  3D.N30.14   Ø16,5",stock.route_warehouse0_mto
+__export__.product_template_1357,__export__.product_category_28,010  3D.N30.14   Ø17,stock.route_warehouse0_mto
+__export__.product_template_1356,__export__.product_category_28,"010  3D.N30.14   Ø17,5",stock.route_warehouse0_mto
+__export__.product_template_1355,__export__.product_category_28,010  3D.N30.14   Ø18,stock.route_warehouse0_mto
+__export__.product_template_1354,__export__.product_category_28,"010  3D.N30.14   Ø18,5",stock.route_warehouse0_mto
+__export__.product_template_1353,__export__.product_category_28,010  3D.N30.14   Ø19,stock.route_warehouse0_mto
+__export__.product_template_1352,__export__.product_category_28,"010  3D.N30.14   Ø19,5",stock.route_warehouse0_mto
+__export__.product_template_1351,__export__.product_category_28,010  3D.N30.14   Ø20,stock.route_warehouse0_mto
+__export__.product_template_1390,__export__.product_category_28,010  3D.N30.14   Ø3.0,stock.route_warehouse0_mto
+__export__.product_template_1389,__export__.product_category_28,010  3D.N30.14   Ø3.1,stock.route_warehouse0_mto
+__export__.product_template_1375,__export__.product_category_28,010  3D.N30.14   Ø3.2,stock.route_warehouse0_mto
+__export__.product_template_1387,__export__.product_category_28,010  3D.N30.14   Ø3.3,stock.route_warehouse0_mto
+__export__.product_template_1399,__export__.product_category_33,010  3D.N30.14   Ø3.4,stock.route_warehouse0_mto
+__export__.product_template_1385,__export__.product_category_28,010  3D.N30.14   Ø3.5,stock.route_warehouse0_mto
+__export__.product_template_1384,__export__.product_category_28,010  3D.N30.14   Ø3.6,stock.route_warehouse0_mto
+__export__.product_template_1383,__export__.product_category_28,010  3D.N30.14   Ø3.7,stock.route_warehouse0_mto
+__export__.product_template_1382,__export__.product_category_28,010  3D.N30.14   Ø3.8,stock.route_warehouse0_mto
+__export__.product_template_1381,__export__.product_category_28,010  3D.N30.14   Ø3.9,stock.route_warehouse0_mto
+__export__.product_template_1380,__export__.product_category_28,010  3D.N30.14   Ø4.0,stock.route_warehouse0_mto
+__export__.product_template_1379,__export__.product_category_28,"010  3D.N30.14   Ø4,1",stock.route_warehouse0_mto
+__export__.product_template_1378,__export__.product_category_28,010  3D.N30.14   Ø4.2,stock.route_warehouse0_mto
+__export__.product_template_1377,__export__.product_category_28,010  3D.N30.14   Ø4.3,stock.route_warehouse0_mto
+__export__.product_template_1411,__export__.product_category_33,010  3D.N30.14   Ø4.4,stock.route_warehouse0_mto
+__export__.product_template_1386,__export__.product_category_28,010  3D.N30.14   Ø4.5,stock.route_warehouse0_mto
+__export__.product_template_1388,__export__.product_category_28,010  3D.N30.14   Ø4.6,stock.route_warehouse0_mto
+__export__.product_template_1424,__export__.product_category_33,010  3D.N30.14   Ø4.7,stock.route_warehouse0_mto
+__export__.product_template_1423,__export__.product_category_33,010  3D.N30.14   Ø4.8,stock.route_warehouse0_mto
+__export__.product_template_1422,__export__.product_category_33,010  3D.N30.14   Ø4.9,stock.route_warehouse0_mto
+__export__.product_template_1421,__export__.product_category_33,010  3D.N30.14   Ø5.0,stock.route_warehouse0_mto
+__export__.product_template_1420,__export__.product_category_33,010  3D.N30.14   Ø5.1,stock.route_warehouse0_mto
+__export__.product_template_1419,__export__.product_category_33,010  3D.N30.14   Ø5.2,stock.route_warehouse0_mto
+__export__.product_template_1418,__export__.product_category_33,010  3D.N30.14   Ø5.3,stock.route_warehouse0_mto
+__export__.product_template_1417,__export__.product_category_33,010  3D.N30.14   Ø5.4,stock.route_warehouse0_mto
+__export__.product_template_1416,__export__.product_category_33,010  3D.N30.14   Ø5.5,stock.route_warehouse0_mto
+__export__.product_template_1415,__export__.product_category_33,010  3D.N30.14   Ø5.6,stock.route_warehouse0_mto
+__export__.product_template_1414,__export__.product_category_33,010  3D.N30.14   Ø5.7,stock.route_warehouse0_mto
+__export__.product_template_1400,__export__.product_category_33,010  3D.N30.14   Ø5.8,stock.route_warehouse0_mto
+__export__.product_template_1412,__export__.product_category_33,010  3D.N30.14   Ø5.9,stock.route_warehouse0_mto
+__export__.product_template_1425,__export__.product_category_33,010  3D.N30.14   Ø6.0,stock.route_warehouse0_mto
+__export__.product_template_1410,__export__.product_category_33,010  3D.N30.14   Ø6.1,stock.route_warehouse0_mto
+__export__.product_template_1409,__export__.product_category_33,010  3D.N30.14   Ø6.2,stock.route_warehouse0_mto
+__export__.product_template_1408,__export__.product_category_33,010  3D.N30.14   Ø6.3,stock.route_warehouse0_mto
+__export__.product_template_1407,__export__.product_category_33,010  3D.N30.14   Ø6.4,stock.route_warehouse0_mto
+__export__.product_template_1406,__export__.product_category_33,010  3D.N30.14   Ø6.5,stock.route_warehouse0_mto
+__export__.product_template_1405,__export__.product_category_33,010  3D.N30.14   Ø6.6,stock.route_warehouse0_mto
+__export__.product_template_1404,__export__.product_category_33,010  3D.N30.14   Ø6.7,stock.route_warehouse0_mto
+__export__.product_template_1403,__export__.product_category_33,010  3D.N30.14   Ø6.8,stock.route_warehouse0_mto
+__export__.product_template_1402,__export__.product_category_33,010  3D.N30.14   Ø6.9,stock.route_warehouse0_mto
+__export__.product_template_1373,__export__.product_category_28,010  3D.N30.14   Ø7.0,stock.route_warehouse0_mto
+__export__.product_template_1413,__export__.product_category_33,010  3D.N30.14   Ø7.1,stock.route_warehouse0_mto
+__export__.product_template_1376,__export__.product_category_28,010  3D.N30.14   Ø7.2,stock.route_warehouse0_mto
+__export__.product_template_1347,__export__.product_category_28,010  3D.N30.14   Ø7.3,stock.route_warehouse0_mto
+__export__.product_template_1346,__export__.product_category_28,010  3D.N30.14   Ø7.4,stock.route_warehouse0_mto
+__export__.product_template_1345,__export__.product_category_28,010  3D.N30.14   Ø7.5,stock.route_warehouse0_mto
+__export__.product_template_1344,__export__.product_category_28,010  3D.N30.14   Ø7.6,stock.route_warehouse0_mto
+__export__.product_template_1343,__export__.product_category_28,010  3D.N30.14   Ø7.7,stock.route_warehouse0_mto
+__export__.product_template_1342,__export__.product_category_28,010  3D.N30.14   Ø7.8,stock.route_warehouse0_mto
+__export__.product_template_1341,__export__.product_category_28,010  3D.N30.14   Ø7.9,stock.route_warehouse0_mto
+__export__.product_template_1340,__export__.product_category_28,010  3D.N30.14   Ø8.0,stock.route_warehouse0_mto
+__export__.product_template_1339,__export__.product_category_28,010  3D.N30.14   Ø8.1,stock.route_warehouse0_mto
+__export__.product_template_1338,__export__.product_category_28,010  3D.N30.14   Ø8.2,stock.route_warehouse0_mto
+__export__.product_template_1324,__export__.product_category_28,010  3D.N30.14   Ø8.3,stock.route_warehouse0_mto
+__export__.product_template_1336,__export__.product_category_28,010  3D.N30.14   Ø8.4,stock.route_warehouse0_mto
+__export__.product_template_1348,__export__.product_category_28,010  3D.N30.14   Ø8.5,stock.route_warehouse0_mto
+__export__.product_template_1334,__export__.product_category_28,010  3D.N30.14   Ø8.6,stock.route_warehouse0_mto
+__export__.product_template_1333,__export__.product_category_28,010  3D.N30.14   Ø8.7,stock.route_warehouse0_mto
+__export__.product_template_1332,__export__.product_category_28,010  3D.N30.14   Ø8.8,stock.route_warehouse0_mto
+__export__.product_template_1331,__export__.product_category_28,010  3D.N30.14   Ø8.9,stock.route_warehouse0_mto
+__export__.product_template_1330,__export__.product_category_28,010  3D.N30.14   Ø9.0,stock.route_warehouse0_mto
+__export__.product_template_1329,__export__.product_category_28,010  3D.N30.14   Ø9.1,stock.route_warehouse0_mto
+__export__.product_template_1328,__export__.product_category_28,010  3D.N30.14   Ø9.2,stock.route_warehouse0_mto
+__export__.product_template_1327,__export__.product_category_28,010  3D.N30.14   Ø9.3,stock.route_warehouse0_mto
+__export__.product_template_1326,__export__.product_category_28,010  3D.N30.14   Ø9.4,stock.route_warehouse0_mto
+__export__.product_template_1325,__export__.product_category_28,010  3D.N30.14   Ø9.5,stock.route_warehouse0_mto
+__export__.product_template_1360,__export__.product_category_28,010  3D.N30.14   Ø9.6,stock.route_warehouse0_mto
+__export__.product_template_1362,__export__.product_category_28,010  3D.N30.14   Ø9.7,stock.route_warehouse0_mto
+__export__.product_template_1337,__export__.product_category_28,010  3D.N30.14   Ø9.8,stock.route_warehouse0_mto
+__export__.product_template_1372,__export__.product_category_28,010  3D.N30.14   Ø9.9,stock.route_warehouse0_mto
+__export__.product_template_1434,__export__.product_category_34,020  3D.N30.14   Ø10,stock.route_warehouse0_mto
+__export__.product_template_1433,__export__.product_category_34,"020  3D.N30.14   Ø10,1",stock.route_warehouse0_mto
+__export__.product_template_1432,__export__.product_category_34,"020  3D.N30.14   Ø10,2",stock.route_warehouse0_mto
+__export__.product_template_1431,__export__.product_category_34,"020  3D.N30.14   Ø10,3",stock.route_warehouse0_mto
+__export__.product_template_1430,__export__.product_category_34,"020  3D.N30.14   Ø10,4",stock.route_warehouse0_mto
+__export__.product_template_1429,__export__.product_category_34,"020  3D.N30.14   Ø10,5",stock.route_warehouse0_mto
+__export__.product_template_1428,__export__.product_category_34,"020  3D.N30.14   Ø10,6",stock.route_warehouse0_mto
+__export__.product_template_1427,__export__.product_category_34,"020  3D.N30.14   Ø10,7",stock.route_warehouse0_mto
+__export__.product_template_1439,__export__.product_category_34,020  3D.N30.14   Ø11,stock.route_warehouse0_mto
+__export__.product_template_1296,__export__.product_category_28,020  3D.N30.14   Ø16,stock.route_warehouse0_mto
+__export__.product_template_1350,__export__.product_category_28,"020  3D.N30.14   Ø16,8",stock.route_warehouse0_mto
+__export__.product_template_1193,__export__.product_category_28,020  3D.N30.14   Ø17,stock.route_warehouse0_mto
+__export__.product_template_1192,__export__.product_category_28,"020  3D.N30.14   Ø17,5",stock.route_warehouse0_mto
+__export__.product_template_1191,__export__.product_category_28,"020  3D.N30.14   Ø17,8",stock.route_warehouse0_mto
+__export__.product_template_1190,__export__.product_category_28,020  3D.N30.14   Ø18,stock.route_warehouse0_mto
+__export__.product_template_1189,__export__.product_category_28,"020  3D.N30.14   Ø18,5",stock.route_warehouse0_mto
+__export__.product_template_1188,__export__.product_category_28,020  3D.N30.14   Ø19,stock.route_warehouse0_mto
+__export__.product_template_1187,__export__.product_category_28,"020  3D.N30.14   Ø19,5",stock.route_warehouse0_mto
+__export__.product_template_1186,__export__.product_category_28,"020  3D.N30.14   Ø19,8",stock.route_warehouse0_mto
+__export__.product_template_1185,__export__.product_category_28,020  3D.N30.14   Ø20,stock.route_warehouse0_mto
+__export__.product_template_1437,__export__.product_category_34,020  3D.N30.14   Ø3,stock.route_warehouse0_mto
+__export__.product_template_1335,__export__.product_category_28,"020  3D.N30.14   Ø3,1",stock.route_warehouse0_mto
+__export__.product_template_1401,__export__.product_category_34,"020  3D.N30.14   Ø3,2",stock.route_warehouse0_mto
+__export__.product_template_1443,__export__.product_category_34,"020  3D.N30.14   Ø9,1",stock.route_warehouse0_mto
+__export__.product_template_1442,__export__.product_category_34,"020  3D.N30.14   Ø9,2",stock.route_warehouse0_mto
+__export__.product_template_1441,__export__.product_category_34,"020  3D.N30.14   Ø9,3",stock.route_warehouse0_mto
+__export__.product_template_1440,__export__.product_category_34,"020  3D.N30.14   Ø9,4",stock.route_warehouse0_mto
+__export__.product_template_1426,__export__.product_category_34,"020  3D.N30.14   Ø9,5",stock.route_warehouse0_mto
+__export__.product_template_1438,__export__.product_category_34,"020  3D.N30.14   Ø9,6",stock.route_warehouse0_mto
+__export__.product_template_1436,__export__.product_category_34,"020  3D.N30.14   Ø9,8",stock.route_warehouse0_mto
+__export__.product_template_1435,__export__.product_category_34,"020  3D.N30.14   Ø9,9",stock.route_warehouse0_mto
+__export__.product_template_1302,__export__.product_category_28,020  3D.N30.T14   Ø3,stock.route_warehouse0_mto
+__export__.product_template_1301,__export__.product_category_28,"020  3D.N30.T14   Ø3,1",stock.route_warehouse0_mto
+__export__.product_template_1300,__export__.product_category_28,"020  3D.N30.T14   Ø3,2",stock.route_warehouse0_mto
+__export__.product_template_1270,__export__.product_category_28,"020  3D.N30.T14   Ø3,3",stock.route_warehouse0_mto
+__export__.product_template_1311,__export__.product_category_28,"020  3D.N30.T14   Ø3,4",stock.route_warehouse0_mto
+__export__.product_template_1273,__export__.product_category_28,"020  3D.N30.T14   Ø3,5",stock.route_warehouse0_mto
+__export__.product_template_1244,__export__.product_category_28,"020  3D.N30.T14   Ø3,6",stock.route_warehouse0_mto
+__export__.product_template_1243,__export__.product_category_28,"020  3D.N30.T14   Ø3,7",stock.route_warehouse0_mto
+__export__.product_template_1242,__export__.product_category_28,"020  3D.N30.T14   Ø3,8",stock.route_warehouse0_mto
+__export__.product_template_1241,__export__.product_category_28,"020  3D.N30.T14   Ø3,9",stock.route_warehouse0_mto
+__export__.product_template_1240,__export__.product_category_28,020  3D.N30.T14   Ø4,stock.route_warehouse0_mto
+__export__.product_template_1239,__export__.product_category_28,"020  3D.N30.T14   Ø4,1",stock.route_warehouse0_mto
+__export__.product_template_1238,__export__.product_category_28,"020  3D.N30.T14   Ø4,2",stock.route_warehouse0_mto
+__export__.product_template_1237,__export__.product_category_28,"020  3D.N30.T14   Ø4,3",stock.route_warehouse0_mto
+__export__.product_template_1236,__export__.product_category_28,"020  3D.N30.T14   Ø4,4",stock.route_warehouse0_mto
+__export__.product_template_1235,__export__.product_category_28,"020  3D.N30.T14   Ø4,5",stock.route_warehouse0_mto
+__export__.product_template_1221,__export__.product_category_28,"020  3D.N30.T14   Ø4,6",stock.route_warehouse0_mto
+__export__.product_template_1233,__export__.product_category_28,"020  3D.N30.T14   Ø4,7",stock.route_warehouse0_mto
+__export__.product_template_1245,__export__.product_category_28,"020  3D.N30.T14   Ø4,8",stock.route_warehouse0_mto
+__export__.product_template_1231,__export__.product_category_28,"020  3D.N30.T14   Ø4,9",stock.route_warehouse0_mto
+__export__.product_template_1230,__export__.product_category_28,020  3D.N30.T14   Ø5,stock.route_warehouse0_mto
+__export__.product_template_1229,__export__.product_category_28,"020  3D.N30.T14   Ø5,1",stock.route_warehouse0_mto
+__export__.product_template_1228,__export__.product_category_28,"020  3D.N30.T14   Ø5,2",stock.route_warehouse0_mto
+__export__.product_template_1227,__export__.product_category_28,"020  3D.N30.T14   Ø5,3",stock.route_warehouse0_mto
+__export__.product_template_1226,__export__.product_category_28,"020  3D.N30.T14   Ø5,4",stock.route_warehouse0_mto
+__export__.product_template_1225,__export__.product_category_28,"020  3D.N30.T14   Ø5,5",stock.route_warehouse0_mto
+__export__.product_template_1224,__export__.product_category_28,"020  3D.N30.T14   Ø5,6",stock.route_warehouse0_mto
+__export__.product_template_1223,__export__.product_category_28,"020  3D.N30.T14   Ø5,7",stock.route_warehouse0_mto
+__export__.product_template_1222,__export__.product_category_28,"020  3D.N30.T14   Ø5,8",stock.route_warehouse0_mto
+__export__.product_template_1257,__export__.product_category_28,"020  3D.N30.T14   Ø5,9",stock.route_warehouse0_mto
+__export__.product_template_1259,__export__.product_category_28,020  3D.N30.T14   Ø6,stock.route_warehouse0_mto
+__export__.product_template_1234,__export__.product_category_28,"020  3D.N30.T14   Ø6,1",stock.route_warehouse0_mto
+__export__.product_template_1269,__export__.product_category_28,"020  3D.N30.T14   Ø6,2",stock.route_warehouse0_mto
+__export__.product_template_1268,__export__.product_category_28,"020  3D.N30.T14   Ø6,3",stock.route_warehouse0_mto
+__export__.product_template_1267,__export__.product_category_28,"020  3D.N30.T14   Ø6,4",stock.route_warehouse0_mto
+__export__.product_template_1266,__export__.product_category_28,"020  3D.N30.T14   Ø6,5",stock.route_warehouse0_mto
+__export__.product_template_1265,__export__.product_category_28,"020  3D.N30.T14   Ø6,6",stock.route_warehouse0_mto
+__export__.product_template_1264,__export__.product_category_28,"020  3D.N30.T14   Ø6,7",stock.route_warehouse0_mto
+__export__.product_template_1263,__export__.product_category_28,"020  3D.N30.T14   Ø6,8",stock.route_warehouse0_mto
+__export__.product_template_1262,__export__.product_category_28,"020  3D.N30.T14   Ø6,9",stock.route_warehouse0_mto
+__export__.product_template_1261,__export__.product_category_28,020  3D.N30.T14   Ø7,stock.route_warehouse0_mto
+__export__.product_template_1260,__export__.product_category_28,"020  3D.N30.T14   Ø7,1",stock.route_warehouse0_mto
+__export__.product_template_1246,__export__.product_category_28,"020  3D.N30.T14   Ø7,2",stock.route_warehouse0_mto
+__export__.product_template_1258,__export__.product_category_28,"020  3D.N30.T14   Ø7,3",stock.route_warehouse0_mto
+__export__.product_template_1271,__export__.product_category_28,"020  3D.N30.T14   Ø7,4",stock.route_warehouse0_mto
+__export__.product_template_1256,__export__.product_category_28,"020  3D.N30.T14   Ø7,5",stock.route_warehouse0_mto
+__export__.product_template_1255,__export__.product_category_28,"020  3D.N30.T14   Ø7,6",stock.route_warehouse0_mto
+__export__.product_template_1254,__export__.product_category_28,"020  3D.N30.T14   Ø7,7",stock.route_warehouse0_mto
+__export__.product_template_1253,__export__.product_category_28,"020  3D.N30.T14   Ø7,8",stock.route_warehouse0_mto
+__export__.product_template_1252,__export__.product_category_28,"020  3D.N30.T14   Ø7,9",stock.route_warehouse0_mto
+__export__.product_template_1251,__export__.product_category_28,020  3D.N30.T14   Ø8,stock.route_warehouse0_mto
+__export__.product_template_1250,__export__.product_category_28,"020  3D.N30.T14   Ø8,1",stock.route_warehouse0_mto
+__export__.product_template_1249,__export__.product_category_28,"020  3D.N30.T14   Ø8,2",stock.route_warehouse0_mto
+__export__.product_template_1248,__export__.product_category_28,"020  3D.N30.T14   Ø8,3",stock.route_warehouse0_mto
+__export__.product_template_1165,__export__.product_category_28,022  5D.N30.14   Ø10,stock.route_warehouse0_mto
+__export__.product_template_1164,__export__.product_category_28,"022  5D.N30.14   Ø10,1",stock.route_warehouse0_mto
+__export__.product_template_1163,__export__.product_category_28,"022  5D.N30.14   Ø10,2",stock.route_warehouse0_mto
+__export__.product_template_1162,__export__.product_category_28,"022  5D.N30.14   Ø10,3",stock.route_warehouse0_mto
+__export__.product_template_1161,__export__.product_category_28,"022  5D.N30.14   Ø10,4",stock.route_warehouse0_mto
+__export__.product_template_1160,__export__.product_category_28,"022  5D.N30.14   Ø10,5",stock.route_warehouse0_mto
+__export__.product_template_1159,__export__.product_category_28,"022  5D.N30.14   Ø10,6",stock.route_warehouse0_mto
+__export__.product_template_1158,__export__.product_category_28,"022  5D.N30.14   Ø10,7",stock.route_warehouse0_mto
+__export__.product_template_1156,__export__.product_category_28,"022  5D.N30.14   Ø10,9",stock.route_warehouse0_mto
+__export__.product_template_1169,__export__.product_category_28,022  5D.N30.14   Ø11,stock.route_warehouse0_mto
+__export__.product_template_1154,__export__.product_category_28,"022  5D.N30.14   Ø11,1",stock.route_warehouse0_mto
+__export__.product_template_1281,__export__.product_category_28,"022  5D.N30.14   Ø11,2",stock.route_warehouse0_mto
+__export__.product_template_1280,__export__.product_category_28,"022  5D.N30.14   Ø11,3",stock.route_warehouse0_mto
+__export__.product_template_1279,__export__.product_category_28,"022  5D.N30.14   Ø11,4",stock.route_warehouse0_mto
+__export__.product_template_1278,__export__.product_category_28,"022  5D.N30.14   Ø11,5",stock.route_warehouse0_mto
+__export__.product_template_1277,__export__.product_category_28,"022  5D.N30.14   Ø11,6",stock.route_warehouse0_mto
+__export__.product_template_1276,__export__.product_category_28,"022  5D.N30.14   Ø11,7",stock.route_warehouse0_mto
+__export__.product_template_1275,__export__.product_category_28,"022  5D.N30.14   Ø11,8",stock.route_warehouse0_mto
+__export__.product_template_1274,__export__.product_category_28,"022  5D.N30.14   Ø11,9",stock.route_warehouse0_mto
+__export__.product_template_1309,__export__.product_category_28,022  5D.N30.14   Ø12,stock.route_warehouse0_mto
+__export__.product_template_1283,__export__.product_category_28,"022  5D.N30.14   Ø12,3",stock.route_warehouse0_mto
+__export__.product_template_1285,__export__.product_category_28,"022  5D.N30.14   Ø12,8",stock.route_warehouse0_mto
+__export__.product_template_1322,__export__.product_category_28,"022  5D.N30.14   Ø13,5",stock.route_warehouse0_mto
+__export__.product_template_1321,__export__.product_category_28,"022  5D.N30.14   Ø13,8",stock.route_warehouse0_mto
+__export__.product_template_1320,__export__.product_category_28,022  5D.N30.14   Ø14,stock.route_warehouse0_mto
+__export__.product_template_1319,__export__.product_category_28,"022  5D.N30.14   Ø14,5",stock.route_warehouse0_mto
+__export__.product_template_1318,__export__.product_category_28,"022  5D.N30.14   Ø14,8",stock.route_warehouse0_mto
+__export__.product_template_1317,__export__.product_category_28,022  5D.N30.14   Ø15,stock.route_warehouse0_mto
+__export__.product_template_1316,__export__.product_category_28,"022  5D.N30.14   Ø15,5",stock.route_warehouse0_mto
+__export__.product_template_1315,__export__.product_category_28,"022  5D.N30.14   Ø15,8",stock.route_warehouse0_mto
+__export__.product_template_1314,__export__.product_category_28,022  5D.N30.14   Ø16,stock.route_warehouse0_mto
+__export__.product_template_1313,__export__.product_category_28,"022  5D.N30.14   Ø16,5",stock.route_warehouse0_mto
+__export__.product_template_1312,__export__.product_category_28,"022  5D.N30.14   Ø16,8",stock.route_warehouse0_mto
+__export__.product_template_1298,__export__.product_category_28,022  5D.N30.14   Ø17,stock.route_warehouse0_mto
+__export__.product_template_1310,__export__.product_category_28,"022  5D.N30.14   Ø17,5",stock.route_warehouse0_mto
+__export__.product_template_1323,__export__.product_category_28,"022  5D.N30.14   Ø17,8",stock.route_warehouse0_mto
+__export__.product_template_1308,__export__.product_category_28,022  5D.N30.14   Ø18,stock.route_warehouse0_mto
+__export__.product_template_1307,__export__.product_category_28,"022  5D.N30.14   Ø18,5",stock.route_warehouse0_mto
+__export__.product_template_1306,__export__.product_category_28,022  5D.N30.14   Ø19,stock.route_warehouse0_mto
+__export__.product_template_1305,__export__.product_category_28,"022  5D.N30.14   Ø19,5",stock.route_warehouse0_mto
+__export__.product_template_1304,__export__.product_category_28,"022  5D.N30.14   Ø19,8",stock.route_warehouse0_mto
+__export__.product_template_1303,__export__.product_category_28,022  5D.N30.14   Ø20,stock.route_warehouse0_mto
+__export__.product_template_1184,__export__.product_category_28,022  5D.N30.14   Ø3,stock.route_warehouse0_mto
+__export__.product_template_1170,__export__.product_category_28,"022  5D.N30.14   Ø3,1",stock.route_warehouse0_mto
+__export__.product_template_1182,__export__.product_category_28,"022  5D.N30.14   Ø3,2",stock.route_warehouse0_mto
+__export__.product_template_1194,__export__.product_category_28,"022  5D.N30.14   Ø3,3",stock.route_warehouse0_mto
+__export__.product_template_1180,__export__.product_category_28,"022  5D.N30.14   Ø3,4",stock.route_warehouse0_mto
+__export__.product_template_1179,__export__.product_category_28,"022  5D.N30.14   Ø3,5",stock.route_warehouse0_mto
+__export__.product_template_1178,__export__.product_category_28,"022  5D.N30.14   Ø3,6",stock.route_warehouse0_mto
+__export__.product_template_1177,__export__.product_category_28,"022  5D.N30.14   Ø3,7",stock.route_warehouse0_mto
+__export__.product_template_1176,__export__.product_category_28,"022  5D.N30.14   Ø3,8",stock.route_warehouse0_mto
+__export__.product_template_1175,__export__.product_category_28,"022  5D.N30.14   Ø3,9",stock.route_warehouse0_mto
+__export__.product_template_1174,__export__.product_category_28,022  5D.N30.14   Ø4,stock.route_warehouse0_mto
+__export__.product_template_1173,__export__.product_category_28,"022  5D.N30.14   Ø4,1",stock.route_warehouse0_mto
+__export__.product_template_1172,__export__.product_category_28,"022  5D.N30.14   Ø4,2",stock.route_warehouse0_mto
+__export__.product_template_1171,__export__.product_category_28,"022  5D.N30.14   Ø4,3",stock.route_warehouse0_mto
+__export__.product_template_1206,__export__.product_category_28,"022  5D.N30.14   Ø4,4",stock.route_warehouse0_mto
+__export__.product_template_1208,__export__.product_category_28,"022  5D.N30.14   Ø4,5",stock.route_warehouse0_mto
+__export__.product_template_1183,__export__.product_category_28,"022  5D.N30.14   Ø4,6",stock.route_warehouse0_mto
+__export__.product_template_1218,__export__.product_category_28,"022  5D.N30.14   Ø4,7",stock.route_warehouse0_mto
+__export__.product_template_1217,__export__.product_category_28,"022  5D.N30.14   Ø4,8",stock.route_warehouse0_mto
+__export__.product_template_1216,__export__.product_category_28,"022  5D.N30.14   Ø4,9",stock.route_warehouse0_mto
+__export__.product_template_1215,__export__.product_category_28,022  5D.N30.14   Ø5,stock.route_warehouse0_mto
+__export__.product_template_1214,__export__.product_category_28,"022  5D.N30.14   Ø5,1",stock.route_warehouse0_mto
+__export__.product_template_1213,__export__.product_category_28,"022  5D.N30.14   Ø5,2",stock.route_warehouse0_mto
+__export__.product_template_1212,__export__.product_category_28,"022  5D.N30.14   Ø5,3",stock.route_warehouse0_mto
+__export__.product_template_1211,__export__.product_category_28,"022  5D.N30.14   Ø5,4",stock.route_warehouse0_mto
+__export__.product_template_1210,__export__.product_category_28,"022  5D.N30.14   Ø5,5",stock.route_warehouse0_mto
+__export__.product_template_1209,__export__.product_category_28,"022  5D.N30.14   Ø5,6",stock.route_warehouse0_mto
+__export__.product_template_1195,__export__.product_category_28,"022  5D.N30.14   Ø5,7",stock.route_warehouse0_mto
+__export__.product_template_1207,__export__.product_category_28,"022  5D.N30.14   Ø5,8",stock.route_warehouse0_mto
+__export__.product_template_1220,__export__.product_category_28,"022  5D.N30.14   Ø5,9",stock.route_warehouse0_mto
+__export__.product_template_1205,__export__.product_category_28,022  5D.N30.14   Ø6,stock.route_warehouse0_mto
+__export__.product_template_1204,__export__.product_category_28,"022  5D.N30.14   Ø6,1",stock.route_warehouse0_mto
+__export__.product_template_1203,__export__.product_category_28,"022  5D.N30.14   Ø6,2",stock.route_warehouse0_mto
+__export__.product_template_1202,__export__.product_category_28,"022  5D.N30.14   Ø6,3",stock.route_warehouse0_mto
+__export__.product_template_1201,__export__.product_category_28,"022  5D.N30.14   Ø6,4",stock.route_warehouse0_mto
+__export__.product_template_1200,__export__.product_category_28,"022  5D.N30.14   Ø6,5",stock.route_warehouse0_mto
+__export__.product_template_1199,__export__.product_category_28,"022  5D.N30.14   Ø6,6",stock.route_warehouse0_mto
+__export__.product_template_1198,__export__.product_category_28,"022  5D.N30.14   Ø6,7",stock.route_warehouse0_mto
+__export__.product_template_1197,__export__.product_category_28,"022  5D.N30.14   Ø6,8",stock.route_warehouse0_mto
+__export__.product_template_1196,__export__.product_category_28,"022  5D.N30.14   Ø6,9",stock.route_warehouse0_mto
+__export__.product_template_1168,__export__.product_category_28,022  5D.N30.14   Ø7,stock.route_warehouse0_mto
+__export__.product_template_1181,__export__.product_category_28,"022  5D.N30.14   Ø7,2",stock.route_warehouse0_mto
+__export__.product_template_1155,__export__.product_category_28,"022  5D.N30.14   Ø9,5",stock.route_warehouse0_mto
+__export__.product_template_1157,__export__.product_category_28,"022  5D.N30.14   Ø9,6",stock.route_warehouse0_mto
+__export__.product_template_1167,__export__.product_category_28,"022  5D.N30.14   Ø9,8",stock.route_warehouse0_mto
+__export__.product_template_1166,__export__.product_category_28,"022  5D.N30.14   Ø9,9",stock.route_warehouse0_mto
+__export__.product_template_1074,__export__.product_category_28,ACM 800 / Modulador ASI ? QAM,stock.route_warehouse0_mto
+__export__.product_template_973,__export__.product_category_25,Avellanador  HSS-E  90º Ref. AV38  Ø25   +  TICN,stock.route_warehouse0_mto
+__export__.product_template_983,__export__.product_category_28,BID 01 N / Base de Toma TV/R Individual,stock.route_warehouse0_mto
+__export__.product_template_984,__export__.product_category_28,BID 10 N / Base de Toma TV/R Final de cascada,stock.route_warehouse0_mto
+__export__.product_template_977,__export__.product_category_28,BIF 01 N / Base de Toma TV/R Final de cascadaDerivacion 3 dB,stock.route_warehouse0_mto
+__export__.product_template_982,__export__.product_category_28,"BIF 01 S / Base de Toma TV/R IndividualDerivacion 0,5 dB",stock.route_warehouse0_mto
+__export__.product_template_978,__export__.product_category_28,BIF 05 N / Base de Toma TV/R IntermediaDerivacion 7 dB,stock.route_warehouse0_mto
+__export__.product_template_979,__export__.product_category_28,BIF 09 N / Base de Toma TV/R IntermediaDerivacion 11 dB,stock.route_warehouse0_mto
+__export__.product_template_980,__export__.product_category_28,BIF 14 N / Base de Toma TV/R IntermediaDerivacion 15 dB,stock.route_warehouse0_mto
+__export__.product_template_981,__export__.product_category_28,"BRF 00 N / Base de Toma puenteada.Derivacion 1,5 dB",stock.route_warehouse0_mto
+__export__.product_template_971,__export__.product_category_23,Broca 570701400  Ø14.00,stock.route_warehouse0_mto
+__export__.product_template_1287,__export__.product_category_28,Broca especial  HSS-E  Ø,stock.route_warehouse0_mto
+__export__.product_template_1288,__export__.product_category_28,Broca especial  HSS-E-PM  Ø,stock.route_warehouse0_mto
+__export__.product_template_1286,__export__.product_category_28,Broca especial  MD  Ø,stock.route_warehouse0_mto
+__export__.product_template_970,__export__.product_category_22,Broca HSS-E DIN 338 R-N  Ref. 71116 Ø0.7 mm,stock.route_warehouse0_mto
+__export__.product_template_1290,__export__.product_category_28,Broca  HSS-E  Ø,stock.route_warehouse0_mto
+__export__.product_template_1289,__export__.product_category_28,Broca  HSS-E-PM  Ø,stock.route_warehouse0_mto
+__export__.product_template_964,__export__.product_category_19,Broca HSS-E Ref. BC31  Ø17 mm,stock.route_warehouse0_mto
+__export__.product_template_1291,__export__.product_category_28,Broca  MD  Ø,stock.route_warehouse0_mto
+__export__.product_template_1047,__export__.product_category_28,"BSD 201 S / Base de toma TV, R / SAT. Individual    Derivacion -1 dB",stock.route_warehouse0_mto
+__export__.product_template_1050,__export__.product_category_28,"BSD 201 S DC / Base de toma TV, R / SAT. Individual. Con paso de corriente.                Derivacion -1 dB",stock.route_warehouse0_mto
+__export__.product_template_1046,__export__.product_category_28,"BSD 201 S LTE / Base de toma TV, R / SAT. Individual                  ",stock.route_warehouse0_mto
+__export__.product_template_1042,__export__.product_category_28,"BSD 203 DC / Base de toma TV, R / SAT. Final.   Con paso de corriente Derivacion -3 dB",stock.route_warehouse0_mto
+__export__.product_template_1043,__export__.product_category_28,"BSD 203 N / Base de toma TV, R / SAT. Final    Derivacion -3 dB",stock.route_warehouse0_mto
+__export__.product_template_1044,__export__.product_category_28,"BSD 210 DC / Base de toma TV, R / SAT. Intermedia. Con paso de corriente.    Derivacion -12 dB",stock.route_warehouse0_mto
+__export__.product_template_1048,__export__.product_category_28,"BSD 210 N / Base de toma TV, R / SAT. Intermedia        Derivacion -12 dB",stock.route_warehouse0_mto
+__export__.product_template_1045,__export__.product_category_28,"BSD 215 N / Base de toma TV, R / SAT. Intermedia         Derivacion -16 dB",stock.route_warehouse0_mto
+__export__.product_template_1049,__export__.product_category_28,"BSD 220 N / Base de toma TV, R / SAT. Intermedia         Derivacion -20 dB",stock.route_warehouse0_mto
+__export__.product_template_1056,__export__.product_category_28,"BSD 301 / Base de toma final, 3 salidas (TV/FM/SAT)",stock.route_warehouse0_mto
+__export__.product_template_1057,__export__.product_category_28,"BSD 310 / Base de toma intermedial, 3 salidas (TV/FM/SAT)",stock.route_warehouse0_mto
+__export__.product_template_1051,__export__.product_category_28,"BSD 403 DC / Base de toma 2 salidas iguales (TV, R + SAT) Final          Paso de corriente IN-OUT y SAT       ",stock.route_warehouse0_mto
+__export__.product_template_1052,__export__.product_category_28,"BSD 411 DC / Base de toma 2 salidas iguales (TV, R + SAT)                     Paso de corriente IN-OUT y SAT       ",stock.route_warehouse0_mto
+__export__.product_template_1053,__export__.product_category_28,"BSD 416 DC / Base de toma 2 salidas iguales (TV, R + SAT)                     Paso de corriente IN-OUT y SAT       ",stock.route_warehouse0_mto
+__export__.product_template_1054,__export__.product_category_28,"BSD 420 DC / Base de toma 2 salidas iguales (TV, R + SAT)                     Paso de corriente IN-OUT y SAT       ",stock.route_warehouse0_mto
+__export__.product_template_1055,__export__.product_category_28,"BSD 425 DC / Base de toma 2 salidas iguales (TV, R + SAT)                     Paso de corriente IN-OUT y SAT       ",stock.route_warehouse0_mto
+__export__.product_template_1397,__export__.product_category_32,BT40-FMH16-37-120,stock.route_warehouse0_mto
+__export__.product_template_1398,__export__.product_category_32,BT40-FMH16-37-90,stock.route_warehouse0_mto
+__export__.product_template_1396,__export__.product_category_32,BT50-FMH22-47-250,stock.route_warehouse0_mto
+__export__.product_template_1395,__export__.product_category_32,BT50-FMH22-60-250,stock.route_warehouse0_mto
+__export__.product_template_1066,__export__.product_category_28,"CIF 6000 + A/D / Conversor de canal por FI analogico y digital DVB T, entrada BI÷BV   E02 - E69",stock.route_warehouse0_mto
+__export__.product_template_1069,__export__.product_category_28,"CIF 7000 + A/D / Conversor de canal por FI analogico y digital DVB T,  entrada BI÷BV   E02 - E69",stock.route_warehouse0_mto
+__export__.product_template_1232,__export__.product_category_28,CN-FT,stock.route_warehouse0_mto
+__export__.product_template_974,__export__.product_category_26,Contrapunto Acero Ø23 S/Plano 911888A,stock.route_warehouse0_mto
+__export__.product_template_1072,__export__.product_category_28,DEN 8000 / Encoder digital 4 IN A/V ? MPEG 2 (ASI),stock.route_warehouse0_mto
+__export__.product_template_1028,__export__.product_category_28,DER 214 C / Derivador 5-1000 MHz 2 salidas DC Block,stock.route_warehouse0_mto
+__export__.product_template_1029,__export__.product_category_28,DER 217 C / Derivador 5-1000 MHz 2 salidas DC Block,stock.route_warehouse0_mto
+__export__.product_template_1030,__export__.product_category_28,DER 223 C / Derivador 5-1000 MHz 2 salidas DC Block,stock.route_warehouse0_mto
+__export__.product_template_1031,__export__.product_category_28,DER 226 C / Derivador 5-1000 MHz 2 salidas DC Block,stock.route_warehouse0_mto
+__export__.product_template_1032,__export__.product_category_28,DER 414 C / Derivador 5-1000 MHz 4 salidas DC Block,stock.route_warehouse0_mto
+__export__.product_template_1033,__export__.product_category_28,DER 417 C / Derivador 5-1000 MHz 4 salidas DC Block,stock.route_warehouse0_mto
+__export__.product_template_1034,__export__.product_category_28,DER 423 C / Derivador 5-1000 MHz 4 salidas DC Block,stock.route_warehouse0_mto
+__export__.product_template_1035,__export__.product_category_28,DER 426 C / Derivador 5-1000 MHz 4 salidas DC Block,stock.route_warehouse0_mto
+__export__.product_template_1006,__export__.product_category_28,DES 107 S / Derivador 1ª FI SAT 1 salidas,stock.route_warehouse0_mto
+__export__.product_template_1007,__export__.product_category_28,DES 111 S / Derivador 1ª FI SAT 1 salidas,stock.route_warehouse0_mto
+__export__.product_template_1008,__export__.product_category_28,DES 116 S / Derivador 1ª FI SAT 1salidas,stock.route_warehouse0_mto
+__export__.product_template_1009,__export__.product_category_28,DES 120 S / Derivador 1ª FI SAT 1 salidas,stock.route_warehouse0_mto
+__export__.product_template_1011,__export__.product_category_28,DES 211 S / Derivador 1ª FI SAT 2 salidas,stock.route_warehouse0_mto
+__export__.product_template_1012,__export__.product_category_28,DES 216 S / Derivador 1ª FI SAT 2 salidas,stock.route_warehouse0_mto
+__export__.product_template_1013,__export__.product_category_28,DES 220 S / Derivador 1ª FI SAT 2 salidas,stock.route_warehouse0_mto
+__export__.product_template_1010,__export__.product_category_28,DES 225 + / Derivador 1ª FI SAT 2 salidas,stock.route_warehouse0_mto
+__export__.product_template_1014,__export__.product_category_28,DES 411 + / Derivador 1ª FI SAT 4 salidas Derivacion -11 dB,stock.route_warehouse0_mto
+__export__.product_template_1015,__export__.product_category_28,DES 416 + / Derivador 1ª FI SAT 4 salidas Derivacion -16 dB,stock.route_warehouse0_mto
+__export__.product_template_1016,__export__.product_category_28,DES 420 + / Derivador 1ª FI SAT 4 salidas Derivacion -20 dB,stock.route_warehouse0_mto
+__export__.product_template_1017,__export__.product_category_28,DES 425 + / Derivador 1ª FI SAT 4 salidas Derivacion -25 dB,stock.route_warehouse0_mto
+__export__.product_template_1004,__export__.product_category_28,DIS 204 S / Distribuidor 1ª FI SAT 2 salidas.  ,stock.route_warehouse0_mto
+__export__.product_template_1005,__export__.product_category_28,DIS 307 S / Distribuidor 1ª FI SAT 3 salidas.  ,stock.route_warehouse0_mto
+__export__.product_template_1002,__export__.product_category_28,"DIS 409 + / Distribuidor 1ª FI SAT 4 salidas. Insercion -8,5 dB",stock.route_warehouse0_mto
+__export__.product_template_1003,__export__.product_category_28,"DIS 513 + / Distribuidor 1ª FI SAT 5 salidas (3 salidas a -9dB y 2 a -12,5dB). ",stock.route_warehouse0_mto
+__export__.product_template_1073,__export__.product_category_28,DMT 8000 / Modulador digital ASI ? COFDM,stock.route_warehouse0_mto
+__export__.product_template_1247,__export__.product_category_28,DN40A-HFD12-135-S85,stock.route_warehouse0_mto
+__export__.product_template_1059,__export__.product_category_28,"DXR 216 +  / Diplexor - Mezclador  1ª FI SAT / RFRF -1,7dB; SAT -2dB",stock.route_warehouse0_mto
+__export__.product_template_1058,__export__.product_category_28,"DXR 2D + / Distribuidor Combinador para cabecera ICT, 3 entradas-2 salidas RF -5,5 dB; SAT -1,5 dB",stock.route_warehouse0_mto
+__export__.product_template_976,__export__.product_category_27,Escariador HSS-E M.Conico Ref. EM7  Ø22.50 mm,stock.route_warehouse0_mto
+__export__.product_template_972,__export__.product_category_24,Escariador  MD  8600  Ø5.02 mm,stock.route_warehouse0_mto
+__export__.product_template_1064,__export__.product_category_28,FTP 1717 / Derivador blindado 17 IN / 17 OUT ,stock.route_warehouse0_mto
+__export__.product_template_1065,__export__.product_category_28,FTP 1734 / Derivador blindado 17 IN / 34 OUT ,stock.route_warehouse0_mto
+__export__.product_template_1060,__export__.product_category_28,FTP 505 / Derivador blindado 5 IN / 5 OUT ,stock.route_warehouse0_mto
+__export__.product_template_1061,__export__.product_category_28,FTP 510 / Derivador blindado 5 IN / 10 OUT ,stock.route_warehouse0_mto
+__export__.product_template_1062,__export__.product_category_28,FTP 909 / Derivador blindado 9 IN / 9 OUT ,stock.route_warehouse0_mto
+__export__.product_template_1063,__export__.product_category_28,FTP 918 / Derivador blindado 9 IN / 18 OUT ,stock.route_warehouse0_mto
+__export__.product_template_965,__export__.product_category_20,Hacer mecha Ø7.5  Destalonar + TIALSIN + Pulido,stock.route_warehouse0_mto
+__export__.product_template_1075,__export__.product_category_28,HAN 8000 / Transmodulador DVB-T a DVB-C - Free-to-air,stock.route_warehouse0_mto
+__export__.product_template_968,__export__.product_category_21,HSK63A-NIK12-120G,stock.route_warehouse0_mto
+__export__.product_template_1067,__export__.product_category_28,IFL 6000  / Conversor 1ª FI SAT - 1ª FI SAT. Dos transpondedores con CAG,stock.route_warehouse0_mto
+__export__.product_template_1068,__export__.product_category_28,IFL 6000 T  / Conversor 1ª FI SAT - 1ª FI SAT. Terminal. Dos transpondedores con CAG y entradas independientes .,stock.route_warehouse0_mto
+__export__.product_template_1070,__export__.product_category_28,IFL 7000  / Conversor 1ª FI SAT - 1ª FI SAT. Dos transpondedores con CAG,stock.route_warehouse0_mto
+__export__.product_template_1071,__export__.product_category_28,IFL 7000 T  / Conversor 1ª FI SAT - 1ª FI SAT. Terminal. Dos transpondedores con CAG y entradas independientes .,stock.route_warehouse0_mto
+__export__.product_template_1393,__export__.product_category_30,Macho HSS-E  Ref. 20480 M12  15º  Tol. 6G + TICN + Pulido,stock.route_warehouse0_mto
+__export__.product_template_966,__export__.product_category_21,MC20-12,stock.route_warehouse0_mto
+__export__.product_template_967,__export__.product_category_21,MC20-8,stock.route_warehouse0_mto
+__export__.product_template_1282,__export__.product_category_28,MD Ø0.075x1.2 mm,stock.route_warehouse0_mto
+__export__.product_template_1394,__export__.product_category_31,MFR6B1.5L22BMK + Modificacion,stock.route_warehouse0_mto
+__export__.product_template_1106,__export__.product_category_28,"NEX 645 CH 21 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",stock.route_warehouse0_mto
+__export__.product_template_1107,__export__.product_category_28,"NEX 645 CH 22 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",stock.route_warehouse0_mto
+__export__.product_template_1108,__export__.product_category_28,"NEX 645 CH 23 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",stock.route_warehouse0_mto
+__export__.product_template_1109,__export__.product_category_28,"NEX 645 CH 24 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",stock.route_warehouse0_mto
+__export__.product_template_1110,__export__.product_category_28,"NEX 645 CH 25 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",stock.route_warehouse0_mto
+__export__.product_template_1111,__export__.product_category_28,"NEX 645 CH 26 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",stock.route_warehouse0_mto
+__export__.product_template_1112,__export__.product_category_28,"NEX 645 CH 27 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",stock.route_warehouse0_mto
+__export__.product_template_1113,__export__.product_category_28,"NEX 645 CH 28 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",stock.route_warehouse0_mto
+__export__.product_template_1114,__export__.product_category_28,"NEX 645 CH 29 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",stock.route_warehouse0_mto
+__export__.product_template_1115,__export__.product_category_28,"NEX 645 CH 30 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",stock.route_warehouse0_mto
+__export__.product_template_1116,__export__.product_category_28,"NEX 645 CH 31 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",stock.route_warehouse0_mto
+__export__.product_template_1117,__export__.product_category_28,"NEX 645 CH 32 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",stock.route_warehouse0_mto
+__export__.product_template_1118,__export__.product_category_28,"NEX 645 CH 33 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",stock.route_warehouse0_mto
+__export__.product_template_1119,__export__.product_category_28,"NEX 645 CH 34 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",stock.route_warehouse0_mto
+__export__.product_template_1120,__export__.product_category_28,"NEX 645 CH 35 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",stock.route_warehouse0_mto
+__export__.product_template_1121,__export__.product_category_28,"NEX 645 CH 36 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",stock.route_warehouse0_mto
+__export__.product_template_1122,__export__.product_category_28,"NEX 645 CH 37 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",stock.route_warehouse0_mto
+__export__.product_template_1123,__export__.product_category_28,"NEX 645 CH 38 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",stock.route_warehouse0_mto
+__export__.product_template_1124,__export__.product_category_28,"NEX 645 CH 39 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",stock.route_warehouse0_mto
+__export__.product_template_1125,__export__.product_category_28,"NEX 645 CH 40 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",stock.route_warehouse0_mto
+__export__.product_template_1126,__export__.product_category_28,"NEX 645 CH 41 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",stock.route_warehouse0_mto
+__export__.product_template_1127,__export__.product_category_28,"NEX 645 CH 42 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",stock.route_warehouse0_mto
+__export__.product_template_1128,__export__.product_category_28,"NEX 645 CH 43 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",stock.route_warehouse0_mto
+__export__.product_template_1129,__export__.product_category_28,"NEX 645 CH 44 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",stock.route_warehouse0_mto
+__export__.product_template_1130,__export__.product_category_28,"NEX 645 CH 45 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",stock.route_warehouse0_mto
+__export__.product_template_1131,__export__.product_category_28,"NEX 645 CH 46 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",stock.route_warehouse0_mto
+__export__.product_template_1132,__export__.product_category_28,"NEX 645 CH 47 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",stock.route_warehouse0_mto
+__export__.product_template_1133,__export__.product_category_28,"NEX 645 CH 48 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",stock.route_warehouse0_mto
+__export__.product_template_1134,__export__.product_category_28,"NEX 645 CH 49 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",stock.route_warehouse0_mto
+__export__.product_template_1135,__export__.product_category_28,"NEX 645 CH 50 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",stock.route_warehouse0_mto
+__export__.product_template_1136,__export__.product_category_28,"NEX 645 CH 51 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",stock.route_warehouse0_mto
+__export__.product_template_1137,__export__.product_category_28,"NEX 645 CH 52 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",stock.route_warehouse0_mto
+__export__.product_template_1138,__export__.product_category_28,"NEX 645 CH 53 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",stock.route_warehouse0_mto
+__export__.product_template_1139,__export__.product_category_28,"NEX 645 CH 54 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",stock.route_warehouse0_mto
+__export__.product_template_1140,__export__.product_category_28,"NEX 645 CH 55 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",stock.route_warehouse0_mto
+__export__.product_template_1141,__export__.product_category_28,"NEX 645 CH 56 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",stock.route_warehouse0_mto
+__export__.product_template_1142,__export__.product_category_28,"NEX 645 CH 57 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",stock.route_warehouse0_mto
+__export__.product_template_1143,__export__.product_category_28,"NEX 645 CH 58 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",stock.route_warehouse0_mto
+__export__.product_template_1144,__export__.product_category_28,"NEX 645 CH 59 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",stock.route_warehouse0_mto
+__export__.product_template_1145,__export__.product_category_28,"NEX 645 CH 60 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",stock.route_warehouse0_mto
+__export__.product_template_1146,__export__.product_category_28,"NEX 645 CH 61 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",stock.route_warehouse0_mto
+__export__.product_template_1147,__export__.product_category_28,"NEX 645 CH 62 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",stock.route_warehouse0_mto
+__export__.product_template_1148,__export__.product_category_28,"NEX 645 CH 63 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",stock.route_warehouse0_mto
+__export__.product_template_1149,__export__.product_category_28,"NEX 645 CH 64 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",stock.route_warehouse0_mto
+__export__.product_template_1150,__export__.product_category_28,"NEX 645 CH 65 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",stock.route_warehouse0_mto
+__export__.product_template_1151,__export__.product_category_28,"NEX 645 CH 66 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",stock.route_warehouse0_mto
+__export__.product_template_1152,__export__.product_category_28,"NEX 645 CH 67 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",stock.route_warehouse0_mto
+__export__.product_template_1153,__export__.product_category_28,"NEX 645 CH 68 DVB-T/H / Amplificador de canal digital UHF, G=53 dB, 123 dB?V",stock.route_warehouse0_mto
+__export__.product_template_1019,__export__.product_category_28,"PAU 204 + / PAU - Distribuidor Puente y Brida 2 Entradas: una con 75 Ohm. 2 Salidas.Insercion - 4,5 dB",stock.route_warehouse0_mto
+__export__.product_template_996,__export__.product_category_28,PAU 22 F / PAU - Distribuidor Conector F 2 Entradas,stock.route_warehouse0_mto
+__export__.product_template_1018,__export__.product_category_28,"PAU 22 + / PAU Puente y Brida 2 Entradas - 2 Salidas Insercion - 0,5 dB",stock.route_warehouse0_mto
+__export__.product_template_997,__export__.product_category_28,"PAU 23 F / PAU - Distribuidor Conector F 2 Entradas: una con 75 Ohm. 3 Salidas.Insercion - 8,2 dB",stock.route_warehouse0_mto
+__export__.product_template_999,__export__.product_category_28,"PAU 24 F / PAU - Distribuidor Conector F 2 Entradas: una con 75 Ohm. 4 Salidas.Insercion - 9,5 dB",stock.route_warehouse0_mto
+__export__.product_template_998,__export__.product_category_28,"PAU 25 F / PAU - Distribuidor Conector F 2 Entradas: una con 75 Ohm. 5 Salidas.Insercion - 14,7 dB",stock.route_warehouse0_mto
+__export__.product_template_1000,__export__.product_category_28,"PAU 26 F / PAU - Distribuidor Conector F 2 Entradas: una con 75 Ohm. 6 Salidas.Insercion - 14,9 dB",stock.route_warehouse0_mto
+__export__.product_template_1001,__export__.product_category_28,PAU 28 F / PAU - Distribuidor Conector F 2 Entradas: una con 75 Ohm. 8 Salidas.Insercion - 16 dB,stock.route_warehouse0_mto
+__export__.product_template_1020,__export__.product_category_28,"PAU 409 + / PAU - Distribuidor Puente y Brida 2 Entradas: una con 75 Ohm. 4 Salidas.Insercion - 8,5 dB",stock.route_warehouse0_mto
+__export__.product_template_969,__export__.product_category_21,Pinza Precision  FDC-10012AA,stock.route_warehouse0_mto
+__export__.product_template_2,product.product_category_all,prueba,stock.route_warehouse0_mto
+__export__.product_template_3,product.product_category_all,prueba,stock.route_warehouse0_mto
+__export__.product_template_1292,__export__.product_category_28,Reafilado Broca  MD  Ø3.5 + TIALN,stock.route_warehouse0_mto
+__export__.product_template_1293,__export__.product_category_28,Reafilado Broca  MD  Ø3 + TIALN,stock.route_warehouse0_mto
+__export__.product_template_1284,__export__.product_category_28,Reafilado Broca  MD  Ø4.5 + TIALN,stock.route_warehouse0_mto
+__export__.product_template_1272,__export__.product_category_28,Reafilado Broca  MD  Ø4 + TIALN,stock.route_warehouse0_mto
+__export__.product_template_1297,__export__.product_category_28,Reafilado Broca  MD  Ø5 + TIALN,stock.route_warehouse0_mto
+__export__.product_template_975,__export__.product_category_20,Rectificar Mango Completo X-WHEX 100100 a  Ø9.8 mm,stock.route_warehouse0_mto
+__export__.product_template_1295,__export__.product_category_28,Recubrimiento  HARD MAX,stock.route_warehouse0_mto
+__export__.product_template_1294,__export__.product_category_28,Recubrimiento  NCr,stock.route_warehouse0_mto
+__export__.product_template_1219,__export__.product_category_28,Recubrimiento  TIALN,stock.route_warehouse0_mto
+__export__.product_template_1299,__export__.product_category_28,Recubrimiento  TIN,stock.route_warehouse0_mto
+__export__.product_template_1025,__export__.product_category_28,REP 204C / Distribuidor 5-1000 MHz 2 salidas DC Block,stock.route_warehouse0_mto
+__export__.product_template_991,__export__.product_category_28,REP 204 / Distribuidor 1ª FI SAT 2 salidas paso corriente,stock.route_warehouse0_mto
+__export__.product_template_992,__export__.product_category_28,REP 307 / Distribuidor 1ª FI SAT 3 salidas paso corriente,stock.route_warehouse0_mto
+__export__.product_template_1026,__export__.product_category_28,REP 408 C / Distribuidor 5-1000 MHz 4 salidas DC Block,stock.route_warehouse0_mto
+__export__.product_template_993,__export__.product_category_28,REP 409 / Distribuidor 1ª FI SAT 4 salidas paso corriente,stock.route_warehouse0_mto
+__export__.product_template_1027,__export__.product_category_28,REP 612 C / Distribuidor 5-1000 MHz 6 salidas DC Block,stock.route_warehouse0_mto
+__export__.product_template_994,__export__.product_category_28,REP 613 / Distribuidor 1ª FI SAT 6 salidas paso corriente,stock.route_warehouse0_mto
+__export__.product_template_995,__export__.product_category_28,REP 815 / Distribuidor 1ª FI SAT 8 salidas paso corriente,stock.route_warehouse0_mto
+__export__.product_template_1079,__export__.product_category_28,SCT 8000 / Transmodulador DVB-S/S2 a DVB-C - Free-to-air,stock.route_warehouse0_mto
+__export__.product_template_1080,__export__.product_category_28,SCT-CI 8000 / Transmodulador DVB-S/S2 a DVB-C Common Interface,stock.route_warehouse0_mto
+__export__.product_template_1082,__export__.product_category_28,SCT-CI  TWIN 8000 / Transmodulador Doble Entrada/Doble Salida DVB-S/S2 a DVB-C- COMMON INTERFACE,stock.route_warehouse0_mto
+__export__.product_template_1081,__export__.product_category_28,SCT TWIN 8000 / Transmodulador Doble Entrada/Doble Salida DVB-S/S2 a DVB-C FREE TO AIR,stock.route_warehouse0_mto
+__export__.product_template_1102,__export__.product_category_28,SDM 6000 + / Demodulador - Modulador QPSK/AM PAL Canales libres E2 - E69,stock.route_warehouse0_mto
+__export__.product_template_1103,__export__.product_category_28,SDM 6000 + ST / Demodulador - Modulador QPSK/AM Canales libres. EstereoE2 - E69,stock.route_warehouse0_mto
+__export__.product_template_1104,__export__.product_category_28,SDM 7000 + / Demodulador - Modulador QPSK/AM PAL Canales libres E2 - E69,stock.route_warehouse0_mto
+__export__.product_template_1105,__export__.product_category_28,SDM 7000 + ST / Demodulador - Modulador QPSK/AM Canales libres. Estereo E2 - E69,stock.route_warehouse0_mto
+__export__.product_template_1076,__export__.product_category_28,SDR 8000 / Transmodulador DVB-T a DVB-C Common Interface,stock.route_warehouse0_mto
+product.product_product_consultant_product_template,product.product_category_all,Servicio,stock.route_warehouse0_mto
+__export__.product_template_1089,__export__.product_category_28,SM 6000 +  / Modulador Audio - Video BLVE2 - E69,stock.route_warehouse0_mto
+__export__.product_template_1090,__export__.product_category_28,"SM 6000 ST +  / Modulador ESTEREO-DUAL, Audio - Video BLV E2 - E69",stock.route_warehouse0_mto
+__export__.product_template_1091,__export__.product_category_28,SM 7000 +  / Modulador Audio - Video BLV E2 - E69,stock.route_warehouse0_mto
+__export__.product_template_1092,__export__.product_category_28,SM 7000 ST+  / Modulador ESTEREO - DUAL  Audio-Video BLV E2 - E69,stock.route_warehouse0_mto
+__export__.product_template_1093,__export__.product_category_28,SM 8000 / Modulador Audio-Video / BLV E2-E69,stock.route_warehouse0_mto
+__export__.product_template_1094,__export__.product_category_28,"SM-ST 8000 / Modulador ESTEREO-DUAL, Audio-Video/BLV  E2-E69",stock.route_warehouse0_mto
+__export__.product_template_1095,__export__.product_category_28,SM-TWIN 8000 / Modulador Audio-Video Doble / BLV E2-E69,stock.route_warehouse0_mto
+__export__.product_template_1096,__export__.product_category_28,"SM-TWIN-ST 8000 / Modulador ESTEREO-DUAL Doble, Audio-Video/BLV  E2-E69",stock.route_warehouse0_mto
+__export__.product_template_1097,__export__.product_category_28,SM-TWIN-W 8000 / Modulador Audio-Video Doble / BLV E2-E69,stock.route_warehouse0_mto
+__export__.product_template_1085,__export__.product_category_28,STT 8000 / Transmodulador QPSK/COFDM,stock.route_warehouse0_mto
+__export__.product_template_1086,__export__.product_category_28,STT-CI 8000 / Transmodulador QPSK/COFDM Common Interface,stock.route_warehouse0_mto
+__export__.product_template_1084,__export__.product_category_28,STT -CI TWIN 8000 / Transmodulador Doble Entrada/Doble Salida DVB-S/S2 a DVB-T - COMMON INTERFACE,stock.route_warehouse0_mto
+__export__.product_template_1083,__export__.product_category_28,STT TWIN 8000 / Transmodulador Doble Entrada/Doble Salida DVB-S/S2 a DVB-T FREE TO AIR,stock.route_warehouse0_mto
+__export__.product_template_990,__export__.product_category_28,TAP 110 / Derivador 1ª FI SAT 1 salida,stock.route_warehouse0_mto
+__export__.product_template_985,__export__.product_category_28,TAP 210 / Derivador 1ª FI SAT 2 salidas Derivacion 10 dB,stock.route_warehouse0_mto
+__export__.product_template_986,__export__.product_category_28,TAP 212 / Derivador 1ª FI SAT 2 salidas Derivacion 12 dB,stock.route_warehouse0_mto
+__export__.product_template_987,__export__.product_category_28,TAP 215 / Derivador 1ª FI SAT 2 salidas Derivacion 15 dB,stock.route_warehouse0_mto
+__export__.product_template_988,__export__.product_category_28,TAP 220 / Derivador 1ª FI SAT 2 salidas Derivacion 20 dB,stock.route_warehouse0_mto
+__export__.product_template_989,__export__.product_category_28,TAP 225 / Derivador 1ª FI SAT 2 salidas Derivacion 25 dB,stock.route_warehouse0_mto
+__export__.product_template_1021,__export__.product_category_28,TAP 412 / Derivador 1ª FI SAT 4 salidas Derivacion 12 dB,stock.route_warehouse0_mto
+__export__.product_template_1022,__export__.product_category_28,TAP 415 / Derivador 1ª FI SAT 4 salidas Derivacion 15  dB,stock.route_warehouse0_mto
+__export__.product_template_1023,__export__.product_category_28,TAP 420 / Derivador 1ª FI SAT 4 salidas Derivacion 20 dB,stock.route_warehouse0_mto
+__export__.product_template_1024,__export__.product_category_28,TAP 425 / Derivador 1ª FI SAT 4 salidas Derivacion 25 dB,stock.route_warehouse0_mto
+__export__.product_template_1036,__export__.product_category_28,TAP 615 / Derivador 1ª FI SAT 6 salidas Derivacion 15 dB,stock.route_warehouse0_mto
+__export__.product_template_1037,__export__.product_category_28,TAP 620 / Derivador 1ª FI SAT 6 salidas Derivacion 20 dB,stock.route_warehouse0_mto
+__export__.product_template_1038,__export__.product_category_28,TAP 625 / Derivador 1ª FI SAT 6 salidas Derivacion 25 dB,stock.route_warehouse0_mto
+__export__.product_template_1039,__export__.product_category_28,TAP 815 / Derivador 1ª FI SAT 8 salidas Derivacion 15 dB,stock.route_warehouse0_mto
+__export__.product_template_1040,__export__.product_category_28,TAP 820 / Derivador 1ª FI SAT 8 salidas Derivacion 20 dB,stock.route_warehouse0_mto
+__export__.product_template_1041,__export__.product_category_28,TAP 825 / Derivador 1ª FI SAT 8 salidas Derivacion 25 dB,stock.route_warehouse0_mto
+__export__.product_template_1077,__export__.product_category_28,TCT 8000 / Transmodulador DVB-T a DVB-C - Free-to-air,stock.route_warehouse0_mto
+__export__.product_template_1078,__export__.product_category_28,TCT-CI 8000 / Transmodulador DVB-T a DVB-C Common Interface,stock.route_warehouse0_mto
+__export__.product_template_1098,__export__.product_category_28,TDM 6000   / Demodulador - Modulador Digital Terrestre CODFM/PAL. Canales libres E2 - E69,stock.route_warehouse0_mto
+__export__.product_template_1099,__export__.product_category_28,TDM 6000 ST / Demodulador - Modulador Digital Terrestre CODFM/PAL. Canales libres. Estereo.E2 - E69,stock.route_warehouse0_mto
+__export__.product_template_1100,__export__.product_category_28,TDM 7000  / Demodulador - Modulador Digital Terrestre CODFM / PAL. Canales libres E2 - E69,stock.route_warehouse0_mto
+__export__.product_template_1101,__export__.product_category_28,TDM 7000 ST / Demodulador - Modulador Digital Terrestre CODFM / PAL. Canales libres. Estereo.E2 - E69,stock.route_warehouse0_mto
+__export__.product_template_1392,__export__.product_category_29,Tirante Maquina BT40  PS.BT40.3,stock.route_warehouse0_mto
+__export__.product_template_1391,__export__.product_category_29,Tirante Maquina BT40  PS.JS40SF,stock.route_warehouse0_mto
+__export__.product_template_1087,__export__.product_category_28,TTT 8000 / Transmodulador DVB-T a DVB-T- Free-to-air,stock.route_warehouse0_mto
+__export__.product_template_1088,__export__.product_category_28,TTT-CI 8000 / Transmodulador DVB-T a DVB-T Common Interface,stock.route_warehouse0_mto
