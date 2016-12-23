@@ -1,0 +1,13 @@
+name,attribute_line_ids/attribute_id,attribute_line_ids/value_ids,list_price,standard_price,categ_id,route_ids/id,type
+CAMISETA ALGODON,COLOR,"BLANCO,NEGR,ROJO,VERDE",35,20,TEXTIL,stock.route_warehouse0_mto,Almacenable
+PANTALON,COLOR,"BLANCO,NEGR,ROJO,VERDE",55,23,TEXTIL,stock.route_warehouse0_mto,Almacenable
+JERSEY,COLOR,"BLANCO,NEGR,ROJO,VERDE",75,60,TEXTIL,stock.route_warehouse0_mto,Almacenable
+CHALECO,COLOR,"BLANCO,NEGR,ROJO,VERDE",95,80,TEXTIL,stock.route_warehouse0_mto,Almacenable
+NIKI,COLOR,"BLANCO,NEGR,ROJO,VERDE",45,15,TEXTIL,stock.route_warehouse0_mto,Almacenable
+CAMISETA LINO,COLOR,"BLANCO,NEGR,ROJO,VERDE",45,33,TEXTIL,stock.route_warehouse0_mto,Almacenable
+CAMISETA LANA,COLOR,"BLANCO,NEGR,ROJO,VERDE",108,25,TEXTIL,stock.route_warehouse0_mto,Almacenable
+CORTINA,COLOR,"BLANCO,NEGR,ROJO,VERDE",125,65,HOGAR,stock.route_warehouse0_mto,Almacenable
+SABANA BAJERA,COLOR,"BLANCO,NEGR,ROJO,VERDE",90,56,HOGAR,stock.route_warehouse0_mto,Almacenable
+SABANA BAJERA AJUSTABLE,COLOR,"BLANCO,NEGR,ROJO,VERDE",45,23,HOGAR,stock.route_warehouse0_mto,Almacenable
+MANTEL RIZO,COLOR,"BLANCO,NEGR,ROJO,VERDE",35,20,HOGAR,"purchase.route_warehouse0_buy,stock.route_warehouse0_mto",Almacenable
+ALBORNOZ BAÑO,COLOR,"BLANCO,NEGR,ROJO,VERDE",23,15,BAÑO,"purchase.route_warehouse0_buy,stock.route_warehouse0_mto",Almacenable
