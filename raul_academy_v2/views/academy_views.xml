@@ -186,28 +186,23 @@
 				<field name="model">res.partner</field>                
 				<field name="arch" type="xml">
 					<form string="Student">
+					<group>
 						<group>
 							<field name="name"  string="Nombre de estudiante"/> 
-						</group>	
-                        <group>
-                            <group>
-                                <field name="street" string="Calle"/>
-                            </group>
-                            <group>
+							<field name="email" string="Correo electrónico"/>
+							 <field name="phone" string="Teléfono"/>							
+                                <field name="mobile" string="Móvil"/>
+						</group>
+						<group>	
+                         <group>
+                            <field name="street" string="Calle"/>
                                 <field name="zip" string="C.P."/>
                                 <field name="city" string="Población"/>
                                 <field name="state_id" string="Provincia"/>
-                                <field name="country_id" string="País"/>								
+                                <field name="country_id" string="País"/>	
+                                
                             </group>
-                        </group>
-                        <group>	
-                            <group>															
-                                <field name="email" string="Correo electrónico"/>
-                            </group>
-                            <group>	
-                                <field name="phone" string="Teléfono"/>							
-                                <field name="mobile" string="Móvil"/>				
-                            </group>
+                           </group>
                         </group>										
 					</form>
 				</field>
