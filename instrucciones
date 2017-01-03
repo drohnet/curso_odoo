@@ -1,8 +1,10 @@
 Importar datos en orden correctamente:[COPERATIVA SAN CARLOS]
+importamos cuentas contables:
+vamos a contabilidad/configuracion/cuentas/importar/0_account.account.csv
 para importar usuarios:
 configuracion / usuarrios/vista lista /importar /usuarios.csv
 para importar clientes y provedores:
-vamos a (sales, o contabilidad) clientes /vista lista/importar/clientes_proveedores.csv
+vamos a (sales, o contabilidad) clientes /vista lista/importar/2_clientes_proveedores(1).csv
 Para importar categorias:
 vamos a sales/configuracion/categorias y atributos/categorias/importar/categorias.csv
 para importar atributos y valores:
